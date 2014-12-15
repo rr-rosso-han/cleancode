@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3349dfb5-1966-4152-9ea9-93a65356998e" name="Default" comment="" />
+    <list default="true" id="3349dfb5-1966-4152-9ea9-93a65356998e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="cleancode.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -73,10 +75,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/string/Solution.java">
+      <file leaf-file-name="ValidNumber.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/string/ValidNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="17" selection-end="40" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2750">
+            <state line="10" column="0" selection-start="156" selection-end="156" vertical-scroll-proportion="0.31791908" vertical-offset="0" max-vertical-offset="692">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwoSum.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/array/TwoSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="113" column="5" selection-start="3386" selection-end="3386" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2992">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,10 +95,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StrStr.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Atoi.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/string/Atoi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="9" selection-start="833" selection-end="833" vertical-scroll-proportion="0.0" vertical-offset="320" max-vertical-offset="1144">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverseWords.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/string/ReverseWords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="3" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="1782">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StrStr.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/string/StrStr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="33" selection-start="390" selection-end="390" vertical-scroll-proportion="0.6040462" vertical-offset="0" max-vertical-offset="1166">
+            <state line="19" column="33" selection-start="390" selection-end="390" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1166">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -118,8 +151,13 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/src/string/IsPalindrome.java" />
-        <option value="$PROJECT_DIR$/src/string/Solution.java" />
         <option value="$PROJECT_DIR$/src/string/StrStr.java" />
+        <option value="$PROJECT_DIR$/src/string/ReverseWords.java" />
+        <option value="$PROJECT_DIR$/src/string/Atoi.java" />
+        <option value="$PROJECT_DIR$/src/string/Solution.java" />
+        <option value="$PROJECT_DIR$/src/string/ValidNumber.java" />
+        <option value="$PROJECT_DIR$/src/array/Solution.java" />
+        <option value="$PROJECT_DIR$/src/array/TwoSum.java" />
       </list>
     </option>
   </component>
@@ -214,6 +252,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="array" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -442,7 +484,7 @@
       <created>1418641639988</created>
       <updated>1418641639988</updated>
       <workItem from="1418641641331" duration="347000" />
-      <workItem from="1418642099325" duration="1800000" />
+      <workItem from="1418642099325" duration="3170000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode: is palindrome&#10;tag: String">
       <created>1418642629519</created>
@@ -456,11 +498,27 @@
       <created>1418643121355</created>
       <updated>1418643121355</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="leetcode: reverse words&#10;tag: String">
+      <created>1418644103334</created>
+      <updated>1418644103334</updated>
+    </task>
+    <task id="LOCAL-00005" summary="leetcode: atoi&#10;tag: String">
+      <created>1418644151086</created>
+      <updated>1418644151086</updated>
+    </task>
+    <task id="LOCAL-00006" summary="leetcode: valid number&#10;tag: String">
+      <created>1418644228782</created>
+      <updated>1418644228782</updated>
+    </task>
+    <task id="LOCAL-00007" summary="leetcode: two sum&#10;tag: array">
+      <created>1418644690950</created>
+      <updated>1418644690950</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2147000" />
+    <option name="totallyTimeSpent" value="3517000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -483,8 +541,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1612" height="884" extended-state="1" />
-    <editor active="false" />
+    <frame x="-9" y="-9" width="1612" height="884" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -528,7 +586,11 @@
     </option>
     <MESSAGE value="leetcode: is palindrome&#10;tag: String" />
     <MESSAGE value="leetcode: strStr&#10;tag: String" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode: strStr&#10;tag: String" />
+    <MESSAGE value="leetcode: reverse words&#10;tag: String" />
+    <MESSAGE value="leetcode: atoi&#10;tag: String" />
+    <MESSAGE value="leetcode: valid number&#10;tag: String" />
+    <MESSAGE value="leetcode: two sum&#10;tag: array" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode: two sum&#10;tag: array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -552,21 +614,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/string/StrStr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="17" selection-end="40" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2750">
+        <state line="19" column="33" selection-start="390" selection-end="390" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1166">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/StrStr.java">
+    <entry file="file://$PROJECT_DIR$/src/string/ReverseWords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="33" selection-start="390" selection-end="390" vertical-scroll-proportion="0.6040462" vertical-offset="0" max-vertical-offset="1166">
+        <state line="8" column="3" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="1782">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/Atoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="9" selection-start="833" selection-end="833" vertical-scroll-proportion="0.0" vertical-offset="320" max-vertical-offset="1144">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="113" column="5" selection-start="3386" selection-end="3386" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2992">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/ValidNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="156" selection-end="156" vertical-scroll-proportion="0.31791908" vertical-offset="0" max-vertical-offset="692">
+          <folding />
         </state>
       </provider>
     </entry>
