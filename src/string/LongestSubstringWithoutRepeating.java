@@ -3,6 +3,7 @@ package string;
 import com.sun.javafx.image.IntPixelGetter;
 import org.junit.Test;
 
+import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
@@ -59,6 +60,22 @@ public class LongestSubstringWithoutRepeating {
                 i++;
             }
             queue.offer(s.charAt(j));
+            maxLength = Math.max(j - i + 1, maxLength);
+        }
+        return maxLength;
+    }
+
+    public int lengthOfLongestSubstringOneLoop(String s) {
+        int i = 0;
+        int n = s.length();
+        int maxLength = 0;
+        int[] charMap = new int[256];
+        Arrays.fill(charMap, -1);
+        for (int j = 0; j < s.length(); j++) {
+            if (charMap[s.charAt(j)] >= i) {
+                i = charMap[s.charAt(j)] + 1;
+            }
+            charMap[s.charAt(j)] = j;
             maxLength = Math.max(j - i + 1, maxLength);
         }
         return maxLength;

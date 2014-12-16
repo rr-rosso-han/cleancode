@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3349dfb5-1966-4152-9ea9-93a65356998e" name="Default" comment="">
+    <list default="true" id="3349dfb5-1966-4152-9ea9-93a65356998e" name="Default" comment="leetcode: two sum&#10;tag: array">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/string/LongestSubstringWithoutRepeating.java" afterPath="$PROJECT_DIR$/src/string/LongestSubstringWithoutRepeating.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cleancode.iml" afterPath="$PROJECT_DIR$/cleancode.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="cleancode.iws" />
@@ -66,19 +69,39 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="cleancode.iml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cleancode.iml">
+      <file leaf-file-name="ValidNumber.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/string/ValidNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="79" selection-end="79" vertical-scroll-proportion="0.0" vertical-offset="44" max-vertical-offset="418">
+            <state line="33" column="9" selection-start="874" selection-end="874" vertical-scroll-proportion="0.0" vertical-offset="1122" max-vertical-offset="2200">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ValidNumber.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/string/ValidNumber.java">
+      <file leaf-file-name="LongestSubstringWithoutRepeating.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/string/LongestSubstringWithoutRepeating.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="156" selection-end="156" vertical-scroll-proportion="0.31791908" vertical-offset="0" max-vertical-offset="692">
+            <state line="79" column="9" selection-start="2227" selection-end="2227" vertical-scroll-proportion="0.7040359" vertical-offset="1267" max-vertical-offset="1958">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Assert.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../junit-4.12-beta-2.jar!/org/junit/Assert.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="135" column="24" selection-start="7557" selection-end="7557" vertical-scroll-proportion="0.0" vertical-offset="2970" max-vertical-offset="3564">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="264">
               <folding />
             </state>
           </provider>
@@ -87,9 +110,9 @@
       <file leaf-file-name="TwoSum.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/array/TwoSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="113" column="5" selection-start="3386" selection-end="3386" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2992">
+            <state line="14" column="13" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="1320" max-vertical-offset="2992">
               <folding>
-                <element signature="imports" expanded="true" />
+                <marker date="1418644656611" expanded="true" signature="2084:2321" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -98,9 +121,9 @@
       <file leaf-file-name="Atoi.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/string/Atoi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="9" selection-start="833" selection-end="833" vertical-scroll-proportion="0.0" vertical-offset="320" max-vertical-offset="1144">
+            <state line="42" column="9" selection-start="863" selection-end="1200" vertical-scroll-proportion="0.0" vertical-offset="518" max-vertical-offset="1144">
               <folding>
-                <element signature="imports" expanded="true" />
+                <marker date="1418644135798" expanded="true" signature="182:345" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -109,9 +132,9 @@
       <file leaf-file-name="ReverseWords.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/string/ReverseWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="3" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="1782">
+            <state line="41" column="32" selection-start="1128" selection-end="1232" vertical-scroll-proportion="0.0" vertical-offset="902" max-vertical-offset="1782">
               <folding>
-                <element signature="imports" expanded="true" />
+                <marker date="1418644079960" expanded="true" signature="198:397" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -120,10 +143,8 @@
       <file leaf-file-name="StrStr.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/string/StrStr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="33" selection-start="390" selection-end="390" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1166">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="25" column="22" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0" vertical-offset="550" max-vertical-offset="1166">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -131,7 +152,7 @@
       <file leaf-file-name="IsPalindrome.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/string/IsPalindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="6" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0" vertical-offset="12" max-vertical-offset="770">
+            <state line="6" column="6" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0" vertical-offset="338" max-vertical-offset="770">
               <folding />
             </state>
           </provider>
@@ -155,9 +176,11 @@
         <option value="$PROJECT_DIR$/src/string/ReverseWords.java" />
         <option value="$PROJECT_DIR$/src/string/Atoi.java" />
         <option value="$PROJECT_DIR$/src/string/Solution.java" />
-        <option value="$PROJECT_DIR$/src/string/ValidNumber.java" />
         <option value="$PROJECT_DIR$/src/array/Solution.java" />
         <option value="$PROJECT_DIR$/src/array/TwoSum.java" />
+        <option value="$PROJECT_DIR$/src/string/ValidNumber.java" />
+        <option value="$PROJECT_DIR$/src/string/LongestSubstringWithoutRepeatingCharacters.java" />
+        <option value="$PROJECT_DIR$/src/string/LongestSubstringWithoutRepeating.java" />
       </list>
     </option>
   </component>
@@ -195,12 +218,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files" />
-      </pane>
-      <pane id="PackagesPane">
-        <subPane />
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -261,6 +278,12 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -277,11 +300,81 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../junit-4.12-beta-2.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../hamcrest-core-1.3.jar!/" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.LongestSubstringWithoutRepeating">
+    <configuration default="false" name="TwoSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="cleancode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="array" />
+      <option name="MAIN_CLASS_NAME" value="array.TwoSum" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="LongestSubstringWithoutRepeating" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="cleancode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="string" />
+      <option name="MAIN_CLASS_NAME" value="string.LongestSubstringWithoutRepeating" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails" singleton="true">
       <module name="" />
       <setting name="vmparams" value="" />
@@ -290,12 +383,6 @@
       <setting name="passParentEnv" value="true" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <setting name="launchBrowser" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -321,38 +408,6 @@
       </option>
       <option name="moduleName" value="" />
       <option name="trusted" value="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="myFilePath" />
-      <option name="GLUE" />
-      <option name="myNameFilter" />
-      <option name="myGeneratedName" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -381,6 +436,38 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -454,7 +541,16 @@
       <option name="usbDebugPort" value="7936" />
       <method />
     </configuration>
-    <list size="0" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TwoSum" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.LongestSubstringWithoutRepeating" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.LongestSubstringWithoutRepeating" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TwoSum" />
+      </list>
+    </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -484,7 +580,8 @@
       <created>1418641639988</created>
       <updated>1418641639988</updated>
       <workItem from="1418641641331" duration="347000" />
-      <workItem from="1418642099325" duration="3170000" />
+      <workItem from="1418642099325" duration="11432000" />
+      <workItem from="1418696571054" duration="1912000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode: is palindrome&#10;tag: String">
       <created>1418642629519</created>
@@ -514,11 +611,19 @@
       <created>1418644690950</created>
       <updated>1418644690950</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="leetcode: Valid number, two approaches&#10;tag: String">
+      <created>1418647971198</created>
+      <updated>1418647971198</updated>
+    </task>
+    <task id="LOCAL-00009" summary="leetcode: longest substring without repeating characters&#10;tag: array">
+      <created>1418696764447</created>
+      <updated>1418696764447</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3517000" />
+    <option name="totallyTimeSpent" value="13691000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -549,7 +654,6 @@
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -557,19 +661,20 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328877" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24967907" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2113402" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32839838" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -590,7 +695,9 @@
     <MESSAGE value="leetcode: atoi&#10;tag: String" />
     <MESSAGE value="leetcode: valid number&#10;tag: String" />
     <MESSAGE value="leetcode: two sum&#10;tag: array" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode: two sum&#10;tag: array" />
+    <MESSAGE value="leetcode: Valid number, two approaches&#10;tag: String" />
+    <MESSAGE value="leetcode: longest substring without repeating characters&#10;tag: array" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode: longest substring without repeating characters&#10;tag: array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -600,9 +707,117 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/string/ValidNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="9" selection-start="874" selection-end="874" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2200">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/LongestSubstringWithoutRepeating.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="9" selection-start="1105" selection-end="1105" vertical-scroll-proportion="0.0" vertical-offset="954" max-vertical-offset="1584">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../junit-4.12-beta-2.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="135" column="24" selection-start="7557" selection-end="7557" vertical-scroll-proportion="0.0" vertical-offset="2970" max-vertical-offset="3564">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="264">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="13" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="1320" max-vertical-offset="2992">
+          <folding>
+            <marker date="1418644656611" expanded="true" signature="2084:2321" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/Atoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="9" selection-start="863" selection-end="1200" vertical-scroll-proportion="0.0" vertical-offset="518" max-vertical-offset="1144">
+          <folding>
+            <marker date="1418644135798" expanded="true" signature="182:345" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/ReverseWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="32" selection-start="1128" selection-end="1232" vertical-scroll-proportion="0.0" vertical-offset="902" max-vertical-offset="1782">
+          <folding>
+            <marker date="1418644079960" expanded="true" signature="198:397" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/StrStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="22" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0" vertical-offset="550" max-vertical-offset="1166">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/IsPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="6" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0" vertical-offset="338" max-vertical-offset="770">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cleancode.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="79" selection-end="79" vertical-scroll-proportion="0.0" vertical-offset="44" max-vertical-offset="418">
+        <state line="4" column="0" selection-start="175" selection-end="175" vertical-scroll-proportion="0.0" vertical-offset="88" max-vertical-offset="440" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="455">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="13" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="1320" max-vertical-offset="2992">
+          <folding>
+            <marker date="1418644656611" expanded="true" signature="2084:2321" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/StrStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="22" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0" vertical-offset="528" max-vertical-offset="1166">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/Atoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="9" selection-start="863" selection-end="1200" vertical-scroll-proportion="0.0" vertical-offset="518" max-vertical-offset="1144">
+          <folding>
+            <marker date="1418644135798" expanded="true" signature="182:345" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/ValidNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="9" selection-start="874" selection-end="874" vertical-scroll-proportion="0.0" vertical-offset="1122" max-vertical-offset="2200">
           <folding />
         </state>
       </provider>
@@ -614,46 +829,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/StrStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="33" selection-start="390" selection-end="390" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1166">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/string/ReverseWords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="3" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="1782">
+        <state line="41" column="32" selection-start="1128" selection-end="1232" vertical-scroll-proportion="0.0" vertical-offset="660" max-vertical-offset="1782">
           <folding>
-            <element signature="imports" expanded="true" />
+            <marker date="1418644079960" expanded="true" signature="198:397" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/Atoi.java">
+    <entry file="jar://$PROJECT_DIR$/../../../junit-4.12-beta-2.jar!/org/junit/Assert.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="9" selection-start="833" selection-end="833" vertical-scroll-proportion="0.0" vertical-offset="320" max-vertical-offset="1144">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="113" column="5" selection-start="3386" selection-end="3386" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2992">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/ValidNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="156" selection-end="156" vertical-scroll-proportion="0.31791908" vertical-offset="0" max-vertical-offset="692">
+        <state line="135" column="24" selection-start="7557" selection-end="7557" vertical-scroll-proportion="0.0" vertical-offset="2970" max-vertical-offset="3564">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_51/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="198" column="6" selection-start="7458" selection-end="7458" vertical-scroll-proportion="0.6388889" vertical-offset="3354" max-vertical-offset="4202">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/LongestSubstringWithoutRepeating.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="9" selection-start="2227" selection-end="2227" vertical-scroll-proportion="0.7040359" vertical-offset="1267" max-vertical-offset="1958">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -734,7 +938,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>junit-4.12-beta-2</last-edited>
+          <last-edited>hamcrest-core-1.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
