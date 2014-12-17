@@ -18,14 +18,16 @@ public class LongestSubstring2Distinct {
 
     @Test
     public void lengthOfLongestSubstringTwoDistinct() {
-        //String a = "abbac";
-        //int b = lengthOfLongestSubstringTwoDistinct(a);
-        //assertEquals("failure - lengthOfLongestSubstringTwoDistinct  of 'abbac' not right",
-          //      4, b);
-        String a = "abaccc";
+        String a = "abcac";
         int b = lengthOfLongestSubstringTwoDistinctOn3(a);
         assertEquals("failure - lengthOfLongestSubstringTwoDistinct  of 'abbaccddd' not right",
-                4, b);
+                3, b);
+        int c = lengthOfLongestSubstringTwoDistinct(a);
+        assertEquals("failure - lengthOfLongestSubstringTwoDistinct  of 'abbaccddd' not right",
+                3, c);
+        int d = lengthOfLongestSubstringTwoDistinctOn2(a);
+        assertEquals("failure - lengthOfLongestSubstringTwoDistinct  of 'abbaccddd' not right",
+                3, d);
     }
     public int lengthOfLongestSubstringTwoDistinctOn3(String s) {
         Set<Character> set = new HashSet<Character>();
@@ -49,18 +51,74 @@ public class LongestSubstring2Distinct {
         return maxLength;
     }
 
+    public int lengthOfLongestSubstringTwoDistinctOn2(String s) {
+        Map<Character,Integer> charNum = new HashMap<Character,Integer>();
+        int start = 0;
+        int end = 0;
+        int charType = 2;
+        int maxLen = 0;
+        while (end < s.length()) {
+            char cur = s.charAt(end);
+            //if this char is in substring already, then increase its number
+            if (charNum.containsKey(cur)) {
+                charNum.put(cur, charNum.get(cur) + 1);
+            } else {
+                charNum.put(cur, 1);
+                if (charType > 0) {
+                    charType--;
+                } else {
+                    //We need eliminate another char in substring to maintain the feasibility of the substring.
+                    while (charNum.get(s.charAt(start)) > 1){
+                        charNum.put(s.charAt(start), charNum.get(s.charAt(start)) - 1);
+                        start++;
+                    }
+                    charNum.remove(s.charAt(start));
+                    start++;
+                }
+            }
+            if (maxLen < end - start + 1) {
+                maxLen = end - start + 1;
+            }
+            end++;
+        }
+        return maxLen;
+    }
+
+    public int lengthOfLongestSubstringKDistinct(String s) {
+        int[] count = new int[256];
+        int start = 0, numDistinct = 0, maxLen = 0;
+        for (int end = 0; end < s.length(); end++) {
+            if (count[s.charAt(end)] == 0) {
+                numDistinct++;
+            }
+            count[s.charAt(end)]++;
+            while (numDistinct > 2) {
+                count[s.charAt(start)]--;
+                if (count[s.charAt(start)] == 0) {
+                    numDistinct--;
+                }
+                start++;
+            }
+            maxLen = Math.max(end - start + 1, maxLen);
+        }
+        return maxLen;
+    }
+
     public int lengthOfLongestSubstringTwoDistinct(String s) {
-        int i = 0;
-        int j = -1;
+        int start = 0; //sliding window start
+        int end = -1; //sliding window end
         int maxLen = 0;
         for (int k = 1; k < s.length(); k++) {
             if (s.charAt(k) == s.charAt(k - 1)) {
                 continue;
             }
-            if (j >= 0 && s.charAt(j)) {
-
+            if (end >= 0 && s.charAt(end) != s.charAt(k)) {
+                maxLen = Math.max(maxLen, k - start);
+                start = end + 1;
             }
+            end = k - 1;
         }
+        return Math.max(s.length() - start, maxLen);
     }
     @Test
     public void subStringsDFS() {
