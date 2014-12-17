@@ -64,12 +64,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LongestSubstring2Distinct.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="LongestSubstring2Distinct.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/string/LongestSubstring2Distinct.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="13" selection-start="3280" selection-end="3280" vertical-scroll-proportion="0.14945056" vertical-offset="1868" max-vertical-offset="3674">
+            <state line="92" column="13" selection-start="3280" selection-end="3280" vertical-scroll-proportion="0.0" vertical-offset="1868" max-vertical-offset="3674">
               <folding>
                 <element signature="e#1881#1900#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MissingRanges.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/array/MissingRanges.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="9" selection-start="452" selection-end="452" vertical-scroll-proportion="0.48351648" vertical-offset="132" max-vertical-offset="1056">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#314#322#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -99,6 +111,7 @@
         <option value="$PROJECT_DIR$/src/string/LongestSubstringWithoutRepeatingCharacters.java" />
         <option value="$PROJECT_DIR$/src/string/LongestSubstringWithoutRepeating.java" />
         <option value="$PROJECT_DIR$/src/string/LongestSubstring2Distinct.java" />
+        <option value="$PROJECT_DIR$/src/array/MissingRanges.java" />
       </list>
     </option>
   </component>
@@ -223,21 +236,21 @@
     <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="179" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="54" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="180" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="56" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="185" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="58" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="978" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="577" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="179" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="54" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="180" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="56" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="185" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="58" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="978" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="577" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
   <component name="RunManager" selected="JUnit.LongestSubstring2Distinct">
@@ -552,7 +565,7 @@
       <workItem from="1418641641331" duration="347000" />
       <workItem from="1418642099325" duration="11432000" />
       <workItem from="1418696571054" duration="11450000" />
-      <workItem from="1418783107925" duration="6701000" />
+      <workItem from="1418783107925" duration="10290000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode: is palindrome&#10;tag: String">
       <created>1418642629519</created>
@@ -594,7 +607,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29930000" />
+    <option name="totallyTimeSpent" value="33519000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -629,7 +642,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -992,9 +1005,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/string/LongestSubstring2Distinct.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="13" selection-start="3280" selection-end="3280" vertical-scroll-proportion="0.14945056" vertical-offset="1868" max-vertical-offset="3674">
+        <state line="92" column="13" selection-start="3280" selection-end="3280" vertical-scroll-proportion="0.0" vertical-offset="1868" max-vertical-offset="3674">
           <folding>
             <element signature="e#1881#1900#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/MissingRanges.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="9" selection-start="452" selection-end="452" vertical-scroll-proportion="0.48351648" vertical-offset="132" max-vertical-offset="1056">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#314#322#0" expanded="true" />
           </folding>
         </state>
       </provider>
