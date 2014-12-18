@@ -31,15 +31,15 @@ public class LongestSubstringWithoutRepeating {
             return 1;
         }
         boolean[] exist = new boolean[256];
-        int i = 0;
+        int left = 0;
         int maxLength = 0;
-        for (int j = 0; j < s.length(); j++) {
-            while (exist[s.charAt(j)]) {
-                exist[s.charAt(i)] = false;
-                i++;
+        for (int right = 0; right < s.length(); right++) {
+            while (exist[s.charAt(right)]) {
+                exist[s.charAt(left)] = false;
+                left++;
             }
-            exist[s.charAt(j)] = true;
-            maxLength = Math.max(j - i + 1, maxLength);
+            exist[s.charAt(right)] = true;
+            maxLength = Math.max(right - left + 1, maxLength);
         }
         return maxLength;
     }
