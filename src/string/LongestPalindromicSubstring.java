@@ -2,9 +2,6 @@ package string;
 
 import org.junit.Test;
 
-import java.util.HashSet;
-import java.util.Set;
-
 import static org.junit.Assert.assertEquals;
 
 /**
@@ -67,5 +64,41 @@ public class LongestPalindromicSubstring {
             right--;
         }
         return true;
+    }
+    @Test
+    public void longestPalindromeOn2() {
+        String a = "lphbehiapswjudnbcossedgioawodnwdruaaxhbkwrxyzaxygmnjgwysafuqbmtzwdkihbwkrjefrsgjbrycembzzlwhxneiijgzidhngbmxwkhphoctpilgooitqbpjxhwrekiqupmlcvawaiposqttsdgzcsjqrmlgyvkkipfigttahljdhtksrozehkzgshekeaxezrswvtinyouomqybqsrtegwwqhqivgnyehpzrhgzckpnnpvajqevbzeksvbezoqygjtdouecnhpjibmsgmcqcgxwzlzztdneahixxhwwuehfsiqghgeunpxgvavqbqrelnvhnnyqnjqfysfltclzeoaletjfzskzvcdwhlbmwbdkxnyqappjzwlowslwcbbmcxoiqkjaqqwvkybimebapkorhfdzntodhpbhgmsspgkbetmgkqlolsltpulgsmyapgjeswazvhxedqsypejwuzlvegtusjcsoenrcmypexkjxyduohlvkhwbrtzjnarusbouwamazzejhnetfqbidalfomecehfmzqkhndpkxinzkpxvhwargbwvaeqbzdhxzmmeeozxxtzpylohvdwoqocvutcelgdsnmubyeeeufdaoznxpvdiwnkjliqtgcmvhilndcdelpnilszzerdcuokyhcxjuedjielvngarsgxkemvhlzuprywlypxeezaxoqfges";
+        String b = longestPalindromeOn2(a);
+        assertEquals("failure - longestPalindromeOn2  of 'abccdaadba' not right",
+                "pnnp", b);
+        a = "a";
+        b = longestPalindromeOn2(a);
+        assertEquals("failure - longestPalindromeOn2  of 'a' not right",
+                "a", b);
+    }
+
+    public String longestPalindromeOn2(String s) {
+        int start = 0;
+        int end = 0;
+        int len = 0;
+        for (int i = 0; i < s.length(); i++) {
+            int len1 = expandAroundCenter(s, i, i);
+            int len2 = expandAroundCenter(s, i, i + 1);
+            len = Math.max(len1, len2);
+            if (len > end - start) {
+                start = i - (len - 1) / 2;
+                end = i + len / 2;
+            }
+        }
+        return s.substring(start, end + 1);
+    }
+
+    private int expandAroundCenter(String s, int left, int right) {
+        int L = left, R = right;
+        while (L >= 0 && R < s.length() && s.charAt(L) == s.charAt(R)) {
+            L--;
+            R++;
+        }
+        return R - L - 1;
     }
 }
