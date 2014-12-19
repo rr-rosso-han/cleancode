@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3349dfb5-1966-4152-9ea9-93a65356998e" name="Default" comment="leetcode: two sum&#10;tag: array">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dp/LongestPalindromicSubstring.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/string/LongestPalindromicSubstring.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/string/LongestSubstringWithoutRepeating.java" afterPath="$PROJECT_DIR$/src/string/LongestSubstringWithoutRepeating.java" />
+    <list default="true" id="3349dfb5-1966-4152-9ea9-93a65356998e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dp/EditDistance.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/string/OneEditDistance.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/string/RotateString.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dp/LongestPalindromicSubstring.java" afterPath="$PROJECT_DIR$/src/dp/LongestPalindromicSubstring.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/string/LongestPalindromicSubstring.java" afterPath="$PROJECT_DIR$/src/string/LongestPalindromicSubstring.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="cleancode.iws" />
@@ -74,17 +76,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LongestSubstring2Distinct.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/string/LongestSubstring2Distinct.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="99" column="24" selection-start="3525" selection-end="3525" vertical-scroll-proportion="0.0" vertical-offset="1789" max-vertical-offset="3674">
-              <folding>
-                <element signature="e#1881#1900#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MissingRanges.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/array/MissingRanges.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -100,7 +91,7 @@
       <file leaf-file-name="LongestPalindromicSubstring.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/string/LongestPalindromicSubstring.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="40" selection-start="191" selection-end="218" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1694">
+            <state line="76" column="24" selection-start="3032" selection-end="3121" vertical-scroll-proportion="0.0" vertical-offset="1537" max-vertical-offset="2420">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,10 +99,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LongestPalindromicSubstring.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="LongestPalindromicSubstring.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/dp/LongestPalindromicSubstring.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="12" selection-start="720" selection-end="720" vertical-scroll-proportion="0.8986175" vertical-offset="204" max-vertical-offset="1298">
+            <state line="14" column="9" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="792" max-vertical-offset="1298">
               <folding />
             </state>
           </provider>
@@ -137,10 +128,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StrStr.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/string/StrStr.java">
+      <file leaf-file-name="RotateString.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/string/RotateString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="18" selection-start="461" selection-end="1169" vertical-scroll-proportion="0.0" vertical-offset="665" max-vertical-offset="1122">
+            <state line="16" column="29" selection-start="269" selection-end="358" vertical-scroll-proportion="0.0" vertical-offset="93" max-vertical-offset="1408">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OneEditDistance.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/string/OneEditDistance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="8" selection-start="500" selection-end="500" vertical-scroll-proportion="0.044619422" vertical-offset="401" max-vertical-offset="1122">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EditDistance.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dp/EditDistance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="30" selection-start="1238" selection-end="1238" vertical-scroll-proportion="0.0" vertical-offset="336" max-vertical-offset="1056">
               <folding />
             </state>
           </provider>
@@ -189,8 +202,11 @@
         <option value="$PROJECT_DIR$/src/string/LongestSubstring2Distinct.java" />
         <option value="$PROJECT_DIR$/src/array/MissingRanges.java" />
         <option value="$PROJECT_DIR$/src/string/LongestSubstringWithoutRepeating.java" />
-        <option value="$PROJECT_DIR$/src/string/LongestPalindromicSubstring.java" />
         <option value="$PROJECT_DIR$/src/dp/LongestPalindromicSubstring.java" />
+        <option value="$PROJECT_DIR$/src/string/LongestPalindromicSubstring.java" />
+        <option value="$PROJECT_DIR$/src/string/RotateString.java" />
+        <option value="$PROJECT_DIR$/src/dp/EditDistance.java" />
+        <option value="$PROJECT_DIR$/src/string/OneEditDistance.java" />
       </list>
     </option>
   </component>
@@ -350,7 +366,7 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="577" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
-  <component name="RunManager" selected="JUnit.LongestPalindromicSubstring">
+  <component name="RunManager" selected="JUnit.OneEditDistance">
     <configuration default="false" name="TwoSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -447,7 +463,7 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="LongestPalindromicSubstring" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="RotateString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="string.*" />
@@ -458,7 +474,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="string" />
-      <option name="MAIN_CLASS_NAME" value="string.LongestPalindromicSubstring" />
+      <option name="MAIN_CLASS_NAME" value="string.RotateString" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -479,6 +495,38 @@
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="OneEditDistance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="cleancode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="string" />
+      <option name="MAIN_CLASS_NAME" value="string.OneEditDistance" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <ConfigurationWrapper RunnerId="Debug" />
       <method />
     </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails" singleton="true">
@@ -653,18 +701,55 @@
       <option name="usbDebugPort" value="7936" />
       <method />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.TwoSum" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.LongestSubstringWithoutRepeating" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.LongestSubstring2Distinct" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.LongestPalindromicSubstring" />
+    <configuration default="false" name="LongestPalindromicSubstring" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="cleancode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="string" />
+      <option name="MAIN_CLASS_NAME" value="string.LongestPalindromicSubstring" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.LongestPalindromicSubstring" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TwoSum" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.LongestSubstringWithoutRepeating" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.LongestSubstring2Distinct" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.RotateString" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.OneEditDistance" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.LongestPalindromicSubstring" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.LongestSubstring2Distinct" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.LongestSubstringWithoutRepeating" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TwoSum" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.OneEditDistance" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.RotateString" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.LongestSubstring2Distinct" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.LongestSubstringWithoutRepeating" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TwoSum" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -698,7 +783,7 @@
       <workItem from="1418641641331" duration="347000" />
       <workItem from="1418642099325" duration="11432000" />
       <workItem from="1418696571054" duration="11450000" />
-      <workItem from="1418783107925" duration="21401000" />
+      <workItem from="1418783107925" duration="32281000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode: is palindrome&#10;tag: String">
       <created>1418642629519</created>
@@ -736,11 +821,19 @@
       <created>1418696764447</created>
       <updated>1418696764447</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="leetcode: Longest palindrome substring&#10;tag: DP">
+      <created>1418896504201</created>
+      <updated>1418896504201</updated>
+    </task>
+    <task id="LOCAL-00011" summary="leetcode: Longest palindrome substring&#10;tag: expand center">
+      <created>1418960901013</created>
+      <updated>1418960901013</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44630000" />
+    <option name="totallyTimeSpent" value="55510000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -764,7 +857,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1612" height="884" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -773,9 +866,9 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3263889" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2113402" sideWeight="0.5010352" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -786,7 +879,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2113402" sideWeight="0.49896482" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3263889" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3263889" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -814,7 +907,9 @@
     <MESSAGE value="leetcode: two sum&#10;tag: array" />
     <MESSAGE value="leetcode: Valid number, two approaches&#10;tag: String" />
     <MESSAGE value="leetcode: longest substring without repeating characters&#10;tag: array" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode: longest substring without repeating characters&#10;tag: array" />
+    <MESSAGE value="leetcode: Longest palindrome substring&#10;tag: DP" />
+    <MESSAGE value="leetcode: Longest palindrome substring&#10;tag: expand center" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode: Longest palindrome substring&#10;tag: expand center" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -878,16 +973,16 @@
     <entry file="file://$PROJECT_DIR$/src/string/ReverseWords.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="41" column="32" selection-start="1128" selection-end="1232" vertical-scroll-proportion="0.0" vertical-offset="902" max-vertical-offset="1782">
-          <folding>
-            <marker date="1418644079960" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/string/StrStr.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="22" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0" vertical-offset="550" max-vertical-offset="1166">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -943,16 +1038,16 @@
     <entry file="file://$PROJECT_DIR$/src/string/ReverseWords.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="41" column="32" selection-start="1128" selection-end="1232" vertical-scroll-proportion="0.0" vertical-offset="902" max-vertical-offset="1782">
-          <folding>
-            <marker date="1418644079960" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/string/StrStr.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="22" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0" vertical-offset="550" max-vertical-offset="1166">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -971,15 +1066,6 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="455" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/ReverseWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="32" selection-start="1128" selection-end="1232" vertical-scroll-proportion="0.0" vertical-offset="660" max-vertical-offset="1782">
-          <folding>
-            <marker date="1418644079960" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_51/src.zip!/java/util/Queue.java">
@@ -1121,7 +1207,9 @@
     <entry file="file://$PROJECT_DIR$/src/string/StrStr.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="44" column="18" selection-start="461" selection-end="1169" vertical-scroll-proportion="0.0" vertical-offset="665" max-vertical-offset="1122">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1157,19 +1245,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/dp/LongestPalindromicSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="9" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="792" max-vertical-offset="1298">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/ReverseWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="5" selection-start="1912" selection-end="2171" vertical-scroll-proportion="0.0" vertical-offset="1172" max-vertical-offset="1738">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/string/LongestPalindromicSubstring.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="40" selection-start="191" selection-end="218" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1694">
+        <state line="76" column="24" selection-start="3032" selection-end="3121" vertical-scroll-proportion="0.0" vertical-offset="1537" max-vertical-offset="2420">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dp/LongestPalindromicSubstring.java">
+    <entry file="file://$PROJECT_DIR$/src/dp/EditDistance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="12" selection-start="720" selection-end="720" vertical-scroll-proportion="0.8986175" vertical-offset="204" max-vertical-offset="1298">
+        <state line="39" column="30" selection-start="1238" selection-end="1238" vertical-scroll-proportion="0.0" vertical-offset="336" max-vertical-offset="1056">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/RotateString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="29" selection-start="269" selection-end="358" vertical-scroll-proportion="0.0" vertical-offset="93" max-vertical-offset="1408">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/OneEditDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="8" selection-start="500" selection-end="500" vertical-scroll-proportion="0.044619422" vertical-offset="401" max-vertical-offset="1122">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
