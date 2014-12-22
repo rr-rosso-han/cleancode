@@ -18,4 +18,15 @@ public class ReverseInteger {
         }
         return ret;
     }
+
+    public int reverseBinary(int x) {
+        /*
+        * 奇数偶数交换
+        * 12,23位整体换
+        * 4位交换
+        * 8位交换
+        * 16位交换
+        * */
+        return 1;
+    }
 }
