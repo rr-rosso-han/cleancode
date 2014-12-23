@@ -1,28 +1,37 @@
 cleancode
 =========
 Array
-    Missing Ranges
-    Two Sum
+
+    1. Missing Ranges
+    2. Two Sum
+
 DP
-    Edit Distance
-    Longest Palindromic Substring
+    3. Edit Distance
+    4. Longest Palindromic Substring
+
 Linked List
-    Add Two Numbers
-    Merge Two Sorted Lists
-    Swap Nodes in Pairs
+
+    5. Add Two Numbers
+    6. Merge Two Sorted Lists
+    7. Swap Nodes in Pairs
+    8. Merge K Sorted Linked Lists
+
 Math
-    Palindrome Number
-    Plus One
-    Reverse Integer
+
+    9. Palindrome Number
+    10. Plus One
+    11. Reverse Integer
+
 String
-    String to Integer
-    Valid Palindrome
-    Longest Palindromic Substring
-    Longest Substring with At Most Two Distinct Characters
-    Longest Substring Without Repeating Characters
-    One Edit Distance
-    Read N Characters Given Read4
-    Reverse Words in a String
-    Rotate String
-    Implement strstr()
-    Valid Number
+
+    12. String to Integer
+    13. Valid Palindrome
+    14. Longest Palindromic Substring
+    15. Longest Substring with At Most Two Distinct Characters
+    16. Longest Substring Without Repeating Characters
+    17. One Edit Distance
+    18. Read N Characters Given Read4
+    19. Reverse Words in a String
+    20. Rotate String
+    21. Implement strstr()
+    22. Valid Number
