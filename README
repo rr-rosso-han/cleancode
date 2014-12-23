@@ -1,28 +1,28 @@
 cleancode
 =========
-##ARRAY
+## ARRAY
 
-    1. [Missing Ranges] (https://github.com/rossojianhan/cleancode/blob/master/src/array/MissingRanges.java)
-    2. [Two Sum] (https://github.com/rossojianhan/cleancode/blob/master/src/array/TwoSum.java)
+    1. [Missing Ranges](https://github.com/rossojianhan/cleancode/blob/master/src/array/MissingRanges.java)
+    2. [Two Sum](https://github.com/rossojianhan/cleancode/blob/master/src/array/TwoSum.java)
 
-##DP
-    3. [Edit Distance] (https://github.com/rossojianhan/cleancode/blob/master/src/dp/EditDistance.java)
-    4. [Longest Palindromic Substring] (https://github.com/rossojianhan/cleancode/blob/master/src/dp/LongestPalindromicSubstring.java)
+## DP
+    3. [Edit Distance](https://github.com/rossojianhan/cleancode/blob/master/src/dp/EditDistance.java)
+    4. [Longest Palindromic Substring](https://github.com/rossojianhan/cleancode/blob/master/src/dp/LongestPalindromicSubstring.java)
 
-##LINKED LIST
+## LINKED LIST
 
-    5. [Add Two Numbers] (https://github.com/rossojianhan/cleancode/blob/master/src/linkedlist/AddTwoNumbers.java)
+    5. [Add Two Numbers](https://github.com/rossojianhan/cleancode/blob/master/src/linkedlist/AddTwoNumbers.java)
     6. Merge Two Sorted Lists
     7. Swap Nodes in Pairs
     8. Merge K Sorted Linked Lists
 
-##MATH
+## MATH
 
     9. Palindrome Number
     10. Plus One
     11. Reverse Integer
 
-##STRING
+## STRING
 
     12. String to Integer
     13. Valid Palindrome
