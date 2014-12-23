@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3349dfb5-1966-4152-9ea9-93a65356998e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README" afterPath="$PROJECT_DIR$/README" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/facetoface/Solution.java" afterPath="$PROJECT_DIR$/src/facetoface/Solution.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
+    <list id="206f938f-3e62-4c4a-b60f-374686d8d4c0" name="Failed commit: Default" comment="leetcode: Merge K sorted Lists&#10;tag: linked list" />
     <ignored path="cleancode.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -129,25 +128,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RotateString.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="RotateString.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/string/RotateString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="28" selection-start="520" selection-end="530" vertical-scroll-proportion="0.0" vertical-offset="88" max-vertical-offset="1364">
+            <state line="21" column="28" selection-start="520" selection-end="530" vertical-scroll-proportion="0.78571427" vertical-offset="88" max-vertical-offset="1364">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MergeKSortedLists.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/linkedlist/MergeKSortedLists.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="80" column="12" selection-start="2082" selection-end="2082" vertical-scroll-proportion="0.0" vertical-offset="1489" max-vertical-offset="2002">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#348#358#0" expanded="true" />
-                <element signature="e#373#552#0" expanded="true" />
-                <element signature="e#541#542#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -190,10 +175,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="20" selection-end="20" vertical-scroll-proportion="0.104761906" vertical-offset="0" max-vertical-offset="924">
+            <state line="2" column="0" selection-start="20" selection-end="20" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="924">
               <folding />
             </state>
           </provider>
@@ -259,9 +244,9 @@
         <option value="$PROJECT_DIR$/src/linkedlist/SwapNodesInPairs.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/linkedlist/MergekSortedLists.java" />
-        <option value="$PROJECT_DIR$/src/linkedlist/MergeKSortedLists.java" />
         <option value="$PROJECT_DIR$/src/facetoface/Solution.java" />
         <option value="$PROJECT_DIR$/README" />
+        <option value="$PROJECT_DIR$/src/linkedlist/MergeKSortedLists.java" />
       </list>
     </option>
   </component>
@@ -895,7 +880,7 @@
       <workItem from="1418783107925" duration="42936000" />
       <workItem from="1419060608777" duration="8238000" />
       <workItem from="1419129729167" duration="2225000" />
-      <workItem from="1419235667367" duration="17128000" />
+      <workItem from="1419235667367" duration="17594000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode: is palindrome&#10;tag: String">
       <created>1418642629519</created>
@@ -957,11 +942,15 @@
       <created>1419258593051</created>
       <updated>1419258593051</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="leetcode: Merge K sorted Lists&#10;tag: linked list">
+      <created>1419297247233</created>
+      <updated>1419297247233</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93756000" />
+    <option name="totallyTimeSpent" value="94222000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1006,7 +995,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.212987" sideWeight="0.49896482" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.212987" sideWeight="0.49896482" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33475783" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1349,13 +1338,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/RotateString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="28" selection-start="520" selection-end="530" vertical-scroll-proportion="0.0" vertical-offset="88" max-vertical-offset="1364">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_51/src.zip!/java/util/PriorityQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="146" column="44" selection-start="5261" selection-end="5276" vertical-scroll-proportion="0.0" vertical-offset="2418" max-vertical-offset="16676">
@@ -1379,21 +1361,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedlist/MergeKSortedLists.java">
+    <entry file="file://$PROJECT_DIR$/README">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="12" selection-start="2082" selection-end="2082" vertical-scroll-proportion="0.0" vertical-offset="1489" max-vertical-offset="2002">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#348#358#0" expanded="true" />
-            <element signature="e#373#552#0" expanded="true" />
-            <element signature="e#541#542#0" expanded="true" />
-          </folding>
+        <state line="2" column="0" selection-start="20" selection-end="20" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="924">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README">
+    <entry file="file://$PROJECT_DIR$/src/string/RotateString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="20" selection-end="20" vertical-scroll-proportion="0.104761906" vertical-offset="0" max-vertical-offset="924">
+        <state line="21" column="28" selection-start="520" selection-end="530" vertical-scroll-proportion="0.78571427" vertical-offset="88" max-vertical-offset="1364">
           <folding />
         </state>
       </provider>
