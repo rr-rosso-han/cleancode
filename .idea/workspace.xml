@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3349dfb5-1966-4152-9ea9-93a65356998e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/binaryTree/MaximumDepthofBinaryTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/binaryTree/TreeNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/binaryTree/ValidateBinarySearchTree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/binaryTree/MinimumDepthofBinaryTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/array/TwoSumII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/array/TwoSum.java" afterPath="$PROJECT_DIR$/src/array/TwoSum.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="206f938f-3e62-4c4a-b60f-374686d8d4c0" name="Failed commit: Default" comment="leetcode: Merge K sorted Lists&#10;tag: linked list" />
@@ -83,7 +82,7 @@
         <option name="CONDITION" value="&#13;&#13;JAVA" />
         <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/linkedList/MergeTwoSortedLists.java" line="47" class="linkedlist.MergeTwoSortedLists" package="linkedlist">
+      <breakpoint url="file://$PROJECT_DIR$/src/linkedList/MergeTwoSortedLists.java" line="47" class="linkedList.MergeTwoSortedLists" package="linkedList">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -98,7 +97,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/linkedList/SwapNodesInPairs.java" line="27" class="linkedlist.SwapNodesInPairs" package="linkedlist">
+      <breakpoint url="file://$PROJECT_DIR$/src/linkedList/SwapNodesInPairs.java" line="27" class="linkedList.SwapNodesInPairs" package="linkedList">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -123,24 +122,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PlusOne.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/math/PlusOne.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="42" selection-start="1443" selection-end="1443" vertical-scroll-proportion="0.0" vertical-offset="1078" max-vertical-offset="1364">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PalindromeNumber.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/math/PalindromeNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="20" selection-start="1429" selection-end="1429" vertical-scroll-proportion="0.0" vertical-offset="1276" max-vertical-offset="1474">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AddTwoNumbers.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/linkedList/AddTwoNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -159,11 +140,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MaximumDepthofBinaryTree.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MaximumDepthofBinaryTree.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/binaryTree/MaximumDepthofBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="1" selection-start="342" selection-end="342" vertical-scroll-proportion="0.73333335" vertical-offset="0" max-vertical-offset="462">
+            <state line="13" column="5" selection-start="340" selection-end="340" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="462">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MinimumDepthofBinaryTree.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/binaryTree/MinimumDepthofBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="22" selection-start="723" selection-end="723" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="1254">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#664#674#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -177,29 +170,42 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EditDistance.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dp/EditDistance.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="25" selection-start="827" selection-end="827" vertical-scroll-proportion="0.0" vertical-offset="594" max-vertical-offset="1056">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MissingRanges.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/array/MissingRanges.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="21" selection-start="569" selection-end="569" vertical-scroll-proportion="0.0" vertical-offset="584" max-vertical-offset="1056">
+            <state line="26" column="27" selection-start="717" selection-end="721" vertical-scroll-proportion="0.0" vertical-offset="196" max-vertical-offset="990">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TwoSum.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="LongestSubstringWithoutRepeating.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/string/LongestSubstringWithoutRepeating.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="65" column="5" selection-start="1204" selection-end="1801" vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="1958">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwoSum.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/array/TwoSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="115" column="19" selection-start="3407" selection-end="3407" vertical-scroll-proportion="0.0" vertical-offset="2185" max-vertical-offset="2882">
+            <state line="53" column="21" selection-start="1743" selection-end="1743" vertical-scroll-proportion="1.3221154" vertical-offset="506" max-vertical-offset="1716">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwoSumII.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/array/TwoSumII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="18" selection-start="386" selection-end="386" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="1562">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -235,7 +241,6 @@
         <option value="$PROJECT_DIR$/src/string/Atoi.java" />
         <option value="$PROJECT_DIR$/src/string/Solution.java" />
         <option value="$PROJECT_DIR$/src/array/Solution.java" />
-        <option value="$PROJECT_DIR$/src/array/TwoSum.java" />
         <option value="$PROJECT_DIR$/src/string/ValidNumber.java" />
         <option value="$PROJECT_DIR$/src/string/LongestSubstringWithoutRepeatingCharacters.java" />
         <option value="$PROJECT_DIR$/src/string/LongestSubstring2Distinct.java" />
@@ -267,6 +272,9 @@
         <option value="$PROJECT_DIR$/src/binaryTree/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/binaryTree/ValidateBinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/binaryTree/MaximumDepthofBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/binaryTree/MinimumDepthofBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/array/TwoSum.java" />
+        <option value="$PROJECT_DIR$/src/array/TwoSumII.java" />
       </list>
     </option>
   </component>
@@ -498,75 +506,7 @@
     <property name="FullScreen" value="false" />
     <property name="SearchEverywhereHistory" value="sh" />
   </component>
-  <component name="RunManager" selected="JUnit.CopyListwithRandomPointer">
-    <configuration default="false" name="PlusOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="cleancode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="math" />
-      <option name="MAIN_CLASS_NAME" value="math.PlusOne" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="PalindromeNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="cleancode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="math" />
-      <option name="MAIN_CLASS_NAME" value="math.PalindromeNumber" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.TwoSumII">
     <configuration default="false" name="MergeTwoSortedLists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -663,6 +603,68 @@
         <option name="LOCAL" value="true" />
       </RunnerSettings>
       <ConfigurationWrapper RunnerId="Debug" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TwoSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="cleancode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="array" />
+      <option name="MAIN_CLASS_NAME" value="array.TwoSum" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TwoSumII" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="cleancode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="array" />
+      <option name="MAIN_CLASS_NAME" value="array.TwoSumII" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
@@ -873,19 +875,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JUnit.LongestPalindromicSubstring" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.PlusOne" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.PalindromeNumber" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.MergeTwoSortedLists" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.SwapNodesInPairs" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.CopyListwithRandomPointer" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.MergeTwoSortedLists" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.SwapNodesInPairs" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.CopyListwithRandomPointer" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TwoSum" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.TwoSumII" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.CopyListwithRandomPointer" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.SwapNodesInPairs" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.MergeTwoSortedLists" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.PalindromeNumber" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.PlusOne" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TwoSumII" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TwoSum" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.CopyListwithRandomPointer" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.SwapNodesInPairs" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.MergeTwoSortedLists" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -924,7 +926,7 @@
       <workItem from="1419129729167" duration="2225000" />
       <workItem from="1419235667367" duration="20082000" />
       <workItem from="1419306070596" duration="6852000" />
-      <workItem from="1419424422613" duration="6781000" />
+      <workItem from="1419424422613" duration="14775000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode: is palindrome&#10;tag: String">
       <created>1418642629519</created>
@@ -1018,7 +1020,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110343000" />
+    <option name="totallyTimeSpent" value="118337000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1042,30 +1044,30 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1600" height="866" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29655173" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36324787" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32905984" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33475783" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2113402" sideWeight="0.5010352" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32905984" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32777777" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24967907" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.212987" sideWeight="0.49896482" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33475783" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.212987" sideWeight="0.49896482" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33475783" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1115,18 +1117,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/string/IsPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="6" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0" vertical-offset="338" max-vertical-offset="770">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cleancode.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="175" selection-end="175" vertical-scroll-proportion="0.0" vertical-offset="88" max-vertical-offset="440" />
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_51/src.zip!/java/util/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="198" column="6" selection-start="7458" selection-end="7458" vertical-scroll-proportion="0.6388889" vertical-offset="3354" max-vertical-offset="4202" />
@@ -1310,15 +1300,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/LongestSubstringWithoutRepeating.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="16" selection-start="1682" selection-end="1682" vertical-scroll-proportion="0.0" vertical-offset="1134" max-vertical-offset="1958">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/string/LongestSubstring2Distinct.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="94" column="22" selection-start="3339" selection-end="3339" vertical-scroll-proportion="0.0" vertical-offset="1789" max-vertical-offset="3674">
@@ -1391,20 +1372,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/MissingRanges.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="21" selection-start="569" selection-end="569" vertical-scroll-proportion="0.0" vertical-offset="584" max-vertical-offset="1056">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="115" column="19" selection-start="3407" selection-end="3407" vertical-scroll-proportion="0.0" vertical-offset="2185" max-vertical-offset="2882">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/linkedList/CopyListwithRandomPointer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="34" column="27" selection-start="1013" selection-end="1019" vertical-scroll-proportion="0.0" vertical-offset="504" max-vertical-offset="1144">
@@ -1438,7 +1405,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/binaryTree/MaximumDepthofBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="1" selection-start="342" selection-end="342" vertical-scroll-proportion="0.73333335" vertical-offset="0" max-vertical-offset="462">
+        <state line="13" column="5" selection-start="340" selection-end="340" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="462">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binaryTree/MinimumDepthofBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="22" selection-start="723" selection-end="723" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="1254">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#664#674#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/MissingRanges.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="27" selection-start="717" selection-end="721" vertical-scroll-proportion="0.0" vertical-offset="196" max-vertical-offset="990">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/LongestSubstringWithoutRepeating.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="5" selection-start="1204" selection-end="1801" vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="1958">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/TwoSumII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="18" selection-start="386" selection-end="386" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="1562">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="21" selection-start="1743" selection-end="1743" vertical-scroll-proportion="1.3221154" vertical-offset="506" max-vertical-offset="1716">
           <folding />
         </state>
       </provider>
