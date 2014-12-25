@@ -1,8 +1,8 @@
-package linkedlist;
+package linkedList;
 
 import java.util.HashMap;
 import java.util.Map;
-import linkedlist.RandomListNode;
+
 import org.junit.Test;
 
 /**

@@ -1,6 +1,4 @@
-package linkedlist;
-
-import java.util.List;
+package linkedList;
 
 /**
  * Created by jiahan on 12/22/14.

@@ -1,6 +1,5 @@
-package linkedlist;
+package linkedList;
 
-import linkedlist.ListNode;
 import org.junit.Test;
 
 /**

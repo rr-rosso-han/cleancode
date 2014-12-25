@@ -12,7 +12,7 @@ cleancode
 
 ## LINKED LIST
 
-- [Add Two Numbers](https://github.com/rossojianhan/cleancode/blob/master/src/linkedlist/AddTwoNumbers.java)
+- [Add Two Numbers](https://github.com/rossojianhan/cleancode/blob/master/src/linkedList/AddTwoNumbers.java)
 - Merge Two Sorted Lists
 - Swap Nodes in Pairs
 - Merge K Sorted Linked Lists
