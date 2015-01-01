@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3349dfb5-1966-4152-9ea9-93a65356998e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/backtrack/GrayCode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/amazon/LinkedListNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/amazon/ListManipulation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/amazon/Parentheses.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/string/RemoveVowels.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/stack/ValidParentheses.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/amazon/ValidateStatement.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/jiahan.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/jiahan.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/binaryTree/BalancedBinaryTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/binaryTree/BinaryTreeMaximumPathSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/binaryTree/ListNode.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/backtrack/GrayCode.java" afterPath="$PROJECT_DIR$/src/backtrack/GrayCode.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="206f938f-3e62-4c4a-b60f-374686d8d4c0" name="Failed commit: Default" comment="leetcode: Merge K sorted Lists&#10;tag: linked list" />
@@ -112,105 +108,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LongestPalindromicSubstring.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dp/LongestPalindromicSubstring.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="1" selection-start="55" selection-end="1460" vertical-scroll-proportion="0.0" vertical-offset="794" max-vertical-offset="1298">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ValidParentheses.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/stack/ValidParentheses.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="20" selection-start="699" selection-end="699" vertical-scroll-proportion="0.0" vertical-offset="154" max-vertical-offset="990">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#368#390#0" expanded="true" />
-                <element signature="e#489#500#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SwapNodesInPairs.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/linkedList/SwapNodesInPairs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="0" selection-start="650" selection-end="650" vertical-scroll-proportion="0.0" vertical-offset="308" max-vertical-offset="990">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="GrayCode.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/backtrack/GrayCode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="26" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0" vertical-offset="134" max-vertical-offset="550">
+            <state line="30" column="9" selection-start="835" selection-end="835" vertical-scroll-proportion="0.0" vertical-offset="308" max-vertical-offset="968">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Parentheses.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/amazon/Parentheses.java">
+      <file leaf-file-name="ValidateBinarySearchTree.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/binaryTree/ValidateBinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="551" selection-end="551" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="2882">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#750#761#0" expanded="true" />
-                <element signature="e#816#838#0" expanded="true" />
-                <element signature="e#1481#1492#0" expanded="true" />
-                <element signature="e#1547#1569#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ValidateStatement.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/amazon/ValidateStatement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0" vertical-offset="310" max-vertical-offset="858">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#318#329#0" expanded="true" />
-                <element signature="e#384#406#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AddTwoNumbers.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/linkedList/AddTwoNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="95" column="9" selection-start="2691" selection-end="2691" vertical-scroll-proportion="1.3701923" vertical-offset="1520" max-vertical-offset="2310">
+            <state line="66" column="5" selection-start="1816" selection-end="1816" vertical-scroll-proportion="0.0" vertical-offset="1452" max-vertical-offset="1628">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ListManipulation.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/amazon/ListManipulation.java">
+      <file leaf-file-name="MaximumDepthofBinaryTree.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/binaryTree/MaximumDepthofBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="62" selection-start="584" selection-end="584" vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="946">
+            <state line="14" column="1" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0" vertical-offset="308" max-vertical-offset="462">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LinkedListNode.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/amazon/LinkedListNode.java">
+      <file leaf-file-name="BalancedBinaryTree.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/binaryTree/BalancedBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="1" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="418">
+            <state line="8" column="13" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0" vertical-offset="22" max-vertical-offset="726">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TwoSumII.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/array/TwoSumII.java">
+      <file leaf-file-name="ConvertSortedArrayToBST.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/binaryTree/ConvertSortedArrayToBST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="18" selection-start="386" selection-end="386" vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="1518">
+            <state line="24" column="0" selection-start="672" selection-end="672" vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="660">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConvertSortedListToBST.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/binaryTree/ConvertSortedListToBST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="23" selection-start="827" selection-end="827" vertical-scroll-proportion="0.0" vertical-offset="352" max-vertical-offset="1826">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryTreeMaximumPathSum.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/binaryTree/BinaryTreeMaximumPathSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="9" selection-start="360" selection-end="360" vertical-scroll-proportion="0.73333335" vertical-offset="66" max-vertical-offset="1386">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TreeNode.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/binaryTree/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="0" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListNode.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/binaryTree/ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="11" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="352">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayList.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.7.0_51/src.zip!/java/util/ArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="441" column="0" selection-start="15941" selection-end="15941" vertical-scroll-proportion="0.0" vertical-offset="9702" max-vertical-offset="25916">
               <folding />
             </state>
           </provider>
@@ -229,10 +211,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/string/IsPalindrome.java" />
-        <option value="$PROJECT_DIR$/src/string/StrStr.java" />
-        <option value="$PROJECT_DIR$/src/string/ReverseWords.java" />
-        <option value="$PROJECT_DIR$/src/string/Atoi.java" />
         <option value="$PROJECT_DIR$/src/string/Solution.java" />
         <option value="$PROJECT_DIR$/src/array/Solution.java" />
         <option value="$PROJECT_DIR$/src/string/ValidNumber.java" />
@@ -270,13 +248,20 @@
         <option value="$PROJECT_DIR$/src/array/TwoSum.java" />
         <option value="$PROJECT_DIR$/src/array/TwoSumII.java" />
         <option value="$PROJECT_DIR$/src/string/RemoveVowels.java" />
-        <option value="$PROJECT_DIR$/src/backtrack/GrayCode.java" />
         <option value="$PROJECT_DIR$/src/amazon/Parenthese.java" />
         <option value="$PROJECT_DIR$/src/amazon/LinkedListNode.java" />
         <option value="$PROJECT_DIR$/src/amazon/Parentheses.java" />
         <option value="$PROJECT_DIR$/src/amazon/ValidateStatement.java" />
         <option value="$PROJECT_DIR$/src/amazon/ListManipulation.java" />
         <option value="$PROJECT_DIR$/src/stack/ValidParentheses.java" />
+        <option value="$PROJECT_DIR$/src/backtrack/GrayCode.java" />
+        <option value="$PROJECT_DIR$/src/binaryTree/BalancedBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/binaryTree/ConvertSortedArraytoBST.java" />
+        <option value="$PROJECT_DIR$/src/binaryTree/ConvertSortedArrayToBST.java" />
+        <option value="$PROJECT_DIR$/src/binaryTree/ConvertSortedListtoBST.java" />
+        <option value="$PROJECT_DIR$/src/binaryTree/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/binaryTree/ConvertSortedListToBST.java" />
+        <option value="$PROJECT_DIR$/src/binaryTree/BinaryTreeMaximumPathSum.java" />
       </list>
     </option>
   </component>
@@ -312,12 +297,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files" />
-      </pane>
-      <pane id="PackagesPane">
-        <subPane />
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -522,6 +501,12 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -531,7 +516,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.lastSelected" value="settings.github" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -562,71 +547,7 @@
     <property name="FullScreen" value="false" />
     <property name="SearchEverywhereHistory" value="sh" />
   </component>
-  <component name="RunManager" selected="JUnit.Parentheses">
-    <configuration default="false" name="SwapNodesInPairs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="linkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="cleancode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="linkedList" />
-      <option name="MAIN_CLASS_NAME" value="linkedList.SwapNodesInPairs" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <ConfigurationWrapper RunnerId="Debug" />
-      <method />
-    </configuration>
-    <configuration default="false" name="CopyListwithRandomPointer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="linkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="cleancode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="linkedList" />
-      <option name="MAIN_CLASS_NAME" value="linkedList.CopyListwithRandomPointer" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <ConfigurationWrapper RunnerId="Debug" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.ConvertSortedListToBST">
     <configuration default="false" name="TwoSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -717,6 +638,78 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="GrayCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="backtrack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="cleancode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="backtrack" />
+      <option name="MAIN_CLASS_NAME" value="backtrack.GrayCode" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ConvertSortedListToBST" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="binaryTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="cleancode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="binaryTree" />
+      <option name="MAIN_CLASS_NAME" value="binaryTree.ConvertSortedListToBST" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <ConfigurationWrapper RunnerId="Debug" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails" singleton="true">
       <module name="" />
       <setting name="vmparams" value="" />
@@ -725,12 +718,6 @@
       <setting name="passParentEnv" value="true" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <setting name="launchBrowser" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -756,38 +743,6 @@
       </option>
       <option name="moduleName" value="" />
       <option name="trusted" value="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="myFilePath" />
-      <option name="GLUE" />
-      <option name="myNameFilter" />
-      <option name="myGeneratedName" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -816,6 +771,38 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -925,19 +912,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JUnit.LongestPalindromicSubstring" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.SwapNodesInPairs" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.CopyListwithRandomPointer" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TwoSum" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TwoSumII" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.Parentheses" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TwoSum" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TwoSumII" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.Parentheses" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.GrayCode" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.ConvertSortedListToBST" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.Parentheses" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TwoSumII" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TwoSum" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.CopyListwithRandomPointer" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.SwapNodesInPairs" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ConvertSortedListToBST" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.GrayCode" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.Parentheses" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TwoSumII" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TwoSum" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -979,7 +966,8 @@
       <workItem from="1419424422613" duration="15974000" />
       <workItem from="1419517026768" duration="5393000" />
       <workItem from="1419596097697" duration="3701000" />
-      <workItem from="1419654515968" duration="7372000" />
+      <workItem from="1419654515968" duration="22070000" />
+      <workItem from="1420005199010" duration="6207000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode: is palindrome&#10;tag: String">
       <created>1418642629519</created>
@@ -1073,7 +1061,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136002000" />
+    <option name="totallyTimeSpent" value="156907000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1106,24 +1094,24 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36324787" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36182335" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33475783" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32905984" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2113402" sideWeight="0.5010352" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32905984" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32777777" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24967907" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.212987" sideWeight="0.49896482" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3337931" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33333334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1156,7 +1144,8 @@
     <MESSAGE value="leetcode: Contents&#10;tag: README" />
     <MESSAGE value="leetcode: copy list with random pointer&#10;tag: linked list" />
     <MESSAGE value="leetcode: maximum depth of binary tree&#10;tag: Binary Tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode: maximum depth of binary tree&#10;tag: Binary Tree" />
+    <MESSAGE value="leetcode: BT path SUM&#10;tag: Binary Tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode: BT path SUM&#10;tag: Binary Tree" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1170,79 +1159,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/../../../junit-4.12-beta-2.jar!/org/junit/internal/runners/statements/InvokeMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="16" selection-start="493" selection-end="493" vertical-scroll-proportion="-9.48" vertical-offset="5" max-vertical-offset="396" />
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../junit-4.12-beta-2.jar!/org/junit/runners/ParentRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="25" selection-start="2860" selection-end="2860" vertical-scroll-proportion="-5.2" vertical-offset="1014" max-vertical-offset="1738" />
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../junit-4.12-beta-2.jar!/org/junit/internal/runners/model/EachTestNotifier.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="16" selection-start="931" selection-end="931" vertical-scroll-proportion="-8.56" vertical-offset="248" max-vertical-offset="616" />
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../junit-4.12-beta-2.jar!/org/junit/runner/Result.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="20" selection-start="1880" selection-end="1880" vertical-scroll-proportion="-5.92" vertical-offset="754" max-vertical-offset="1122" />
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../junit-4.12-beta-2.jar!/org/junit/runner/notification/RunNotifier.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1188" />
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../junit-4.12-beta-2.jar!/org/junit/runner/notification/SynchronizedRunListener.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="16" selection-start="1286" selection-end="1286" vertical-scroll-proportion="-4.88" vertical-offset="406" max-vertical-offset="814" />
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../junit-4.12-beta-2.jar!/org/junit/runner/Description.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="15" selection-start="2863" selection-end="2863" vertical-scroll-proportion="-4.56" vertical-offset="942" max-vertical-offset="1650" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/StrStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="18" selection-start="461" selection-end="1169" vertical-scroll-proportion="0.0" vertical-offset="665" max-vertical-offset="1122">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_51/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="489" column="30" selection-start="19310" selection-end="19310" vertical-scroll-proportion="0.0" vertical-offset="9587" max-vertical-offset="25872" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/Reader4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="1" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="484">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_51/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1201" column="17" selection-start="44993" selection-end="44993" vertical-scroll-proportion="0.0" vertical-offset="25696" max-vertical-offset="26994" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedList/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="21" selection-start="76" selection-end="84" vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="418">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_51/src.zip!/java/util/PriorityQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="146" column="44" selection-start="5261" selection-end="5276" vertical-scroll-proportion="0.0" vertical-offset="2418" max-vertical-offset="16676" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/facetoface/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="64" column="5" selection-start="1135" selection-end="1135" vertical-scroll-proportion="0.0" vertical-offset="1203" max-vertical-offset="2904">
@@ -1252,9 +1168,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="14" selection-start="1039" selection-end="1039" vertical-scroll-proportion="0.0" vertical-offset="451" max-vertical-offset="946">
-          <folding />
-        </state>
+        <state line="37" column="14" selection-start="1039" selection-end="1039" vertical-scroll-proportion="0.0" vertical-offset="451" max-vertical-offset="946" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/linkedList/MergeTwoSortedLists.java">
@@ -1353,27 +1267,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/binaryTree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="11" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/binaryTree/ValidateBinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="5" selection-start="1425" selection-end="1425" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1628">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/binaryTree/MaximumDepthofBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="5" selection-start="340" selection-end="340" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="462">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/array/MissingRanges.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="27" selection-start="717" selection-end="721" vertical-scroll-proportion="0.0" vertical-offset="196" max-vertical-offset="990">
@@ -1404,16 +1297,12 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_51/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1481" column="15" selection-start="58508" selection-end="58508" vertical-scroll-proportion="0.0" vertical-offset="31524" max-vertical-offset="67672">
-          <folding />
-        </state>
+        <state line="1481" column="15" selection-start="58508" selection-end="58508" vertical-scroll-proportion="0.0" vertical-offset="31524" max-vertical-offset="67672" />
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_51/src.zip!/java/lang/Character.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6117" column="23" selection-start="218763" selection-end="218763" vertical-scroll-proportion="0.0" vertical-offset="133868" max-vertical-offset="154264">
-          <folding />
-        </state>
+        <state line="6117" column="23" selection-start="218763" selection-end="218763" vertical-scroll-proportion="0.0" vertical-offset="133868" max-vertical-offset="154264" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/array/TwoSum.java">
@@ -1448,11 +1337,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="0" selection-start="551" selection-end="551" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="2882">
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#750#761#0" expanded="true" />
-            <element signature="e#816#838#0" expanded="true" />
-            <element signature="e#1481#1492#0" expanded="true" />
-            <element signature="e#1547#1569#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#750#761#0" expanded="false" />
+            <element signature="e#816#838#0" expanded="false" />
+            <element signature="e#1481#1492#0" expanded="false" />
+            <element signature="e#1547#1569#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1464,31 +1353,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/amazon/ListManipulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="62" selection-start="584" selection-end="584" vertical-scroll-proportion="0.0" vertical-offset="530" max-vertical-offset="946">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/amazon/ValidateStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0" vertical-offset="112" max-vertical-offset="858">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#318#329#0" expanded="true" />
-            <element signature="e#384#406#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/stack/ValidParentheses.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="20" selection-start="699" selection-end="699" vertical-scroll-proportion="0.0" vertical-offset="154" max-vertical-offset="990">
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#368#390#0" expanded="true" />
-            <element signature="e#489#500#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#368#390#0" expanded="false" />
+            <element signature="e#489#500#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1496,13 +1367,6 @@
     <entry file="file://$PROJECT_DIR$/src/linkedList/SwapNodesInPairs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="0" selection-start="650" selection-end="650" vertical-scroll-proportion="0.0" vertical-offset="308" max-vertical-offset="990">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/backtrack/GrayCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="26" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0" vertical-offset="134" max-vertical-offset="550">
           <folding />
         </state>
       </provider>
@@ -1523,7 +1387,140 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/linkedList/AddTwoNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="95" column="9" selection-start="2691" selection-end="2691" vertical-scroll-proportion="1.3701923" vertical-offset="1520" max-vertical-offset="2310">
+        <state line="95" column="9" selection-start="2691" selection-end="2691" vertical-scroll-proportion="0.0" vertical-offset="1520" max-vertical-offset="2310">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/amazon/ValidateStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="1" selection-start="132" selection-end="946" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="858">
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#318#329#0" expanded="false" />
+            <element signature="e#384#406#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/amazon/ListManipulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="1" selection-start="1028" selection-end="1028" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="946">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linkedList/MergeKSortedLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="555" selection-end="555" vertical-scroll-proportion="0.0" vertical-offset="896" max-vertical-offset="1958">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_51/src.zip!/java/lang/StrictMath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="612" column="32" selection-start="24253" selection-end="24253" vertical-scroll-proportion="0.0" vertical-offset="10135" max-vertical-offset="31878" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_51/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="0" selection-start="500" selection-end="500" vertical-scroll-proportion="0.0" vertical-offset="154" max-vertical-offset="11814" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_51/src.zip!/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="0" selection-start="1878" selection-end="1878" vertical-scroll-proportion="0.0" vertical-offset="814" max-vertical-offset="9856">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_51/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="0" selection-start="2368" selection-end="2368" vertical-scroll-proportion="0.0" vertical-offset="1034" max-vertical-offset="16808">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_51/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="640" column="0" selection-start="23945" selection-end="23945" vertical-scroll-proportion="0.0" vertical-offset="13442" max-vertical-offset="26994">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_51/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="801" column="0" selection-start="32248" selection-end="32248" vertical-scroll-proportion="0.0" vertical-offset="16984" max-vertical-offset="33198">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_51/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="441" column="0" selection-start="15941" selection-end="15941" vertical-scroll-proportion="0.0" vertical-offset="9064" max-vertical-offset="25410">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binaryTree/ValidateBinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="5" selection-start="1816" selection-end="1816" vertical-scroll-proportion="0.0" vertical-offset="1232" max-vertical-offset="1628">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binaryTree/MaximumDepthofBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="1" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="462">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binaryTree/BalancedBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="13" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0" vertical-offset="22" max-vertical-offset="726">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binaryTree/ConvertSortedArrayToBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="672" selection-end="672" vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="660">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtrack/GrayCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="9" selection-start="835" selection-end="835" vertical-scroll-proportion="0.0" vertical-offset="308" max-vertical-offset="968">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binaryTree/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="11" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="352">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binaryTree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binaryTree/ConvertSortedListToBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="23" selection-start="827" selection-end="827" vertical-scroll-proportion="0.0" vertical-offset="352" max-vertical-offset="1826">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binaryTree/BinaryTreeMaximumPathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="9" selection-start="360" selection-end="360" vertical-scroll-proportion="0.73333335" vertical-offset="66" max-vertical-offset="1386">
           <folding />
         </state>
       </provider>
