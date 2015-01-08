@@ -8,7 +8,12 @@ import static org.junit.Assert.assertEquals;
  * Created by jiahan on 1/7/15.
  */
 public class BadNeighbors {
-
+    /**
+     *
+     * bug is don't know it need to be dp[i - 2] + donations[i]
+     *
+     *
+     */
     @Test
     public void maxDonations() {
         int[] a = {10, 3, 2, 5, 7, 8};
@@ -30,8 +35,24 @@ public class BadNeighbors {
         assertEquals("failure - maxDonations  of 'd' is not right", d1, maxDonations(d));
         assertEquals("failure - maxDonations  of 'e' is not right", e1, maxDonations(e));
     }
-    public int maxDonations(int[] A) {
 
+    public int maxDonations(int[] donations) {
+        int n = donations.length;
+        //init
+        int[] dp = new int[n];
+        dp[0] = donations[0];
+        for (int i = 2; i < n - 1; i++) {
+            dp[i] = Math.max(dp[i - 2] + donations[i], dp[i - 1]);
+        }
+        int answer1 = dp[n - 2];
+
+        dp = new int[n];
+        dp[1] = donations[1];
+        for (int i = 2; i < n; i++) {
+            dp[i] = Math.max(dp[i - 2] + donations[i], dp[i - 1]);
+        }
+        int answer2 = dp[n - 1];
+        return Math.max(answer1, answer2);
     }
 
 }

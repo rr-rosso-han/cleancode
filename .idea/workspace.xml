@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3349dfb5-1966-4152-9ea9-93a65356998e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/topcoder/BadNeighbors.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graph/CloneGraph.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/stack/MinStack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/array/TwoSumIII.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graph/UndirectedGraphNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/topcoder/ZigZag.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/array/TwoSum.java" afterPath="$PROJECT_DIR$/src/array/TwoSum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/array/TwoSumII.java" afterPath="$PROJECT_DIR$/src/array/TwoSumII.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/topcoder/BadNeighbors.java" afterPath="$PROJECT_DIR$/src/topcoder/BadNeighbors.java" />
     </list>
     <list id="206f938f-3e62-4c4a-b60f-374686d8d4c0" name="Failed commit: Default" comment="leetcode: Merge K sorted Lists&#10;tag: linked list" />
     <ignored path="cleancode.iws" />
@@ -137,7 +129,7 @@
       <file leaf-file-name="BadNeighbors.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/topcoder/BadNeighbors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="0" selection-start="679" selection-end="679" vertical-scroll-proportion="0.7889688" vertical-offset="221" max-vertical-offset="946">
+            <state line="15" column="7" selection-start="257" selection-end="257" vertical-scroll-proportion="-1.3717027" vertical-offset="902" max-vertical-offset="1408">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -640,35 +632,7 @@
     <property name="FullScreen" value="false" />
     <property name="SearchEverywhereHistory" value="&#10;sh" />
   </component>
-  <component name="RunManager" selected="JUnit.ZigZag">
-    <configuration default="false" name="Parentheses" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="amazon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="cleancode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="amazon" />
-      <option name="MAIN_CLASS_NAME" value="amazon.Parentheses" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.BadNeighbors">
     <configuration default="false" name="GrayCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -770,6 +734,34 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="topcoder" />
       <option name="MAIN_CLASS_NAME" value="topcoder.ZigZag" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="BadNeighbors" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="topcoder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="cleancode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="topcoder" />
+      <option name="MAIN_CLASS_NAME" value="topcoder.BadNeighbors" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -994,19 +986,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JUnit.LongestPalindromicSubstring" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.Parentheses" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.GrayCode" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.ConvertSortedListToBST" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.All in cleancode" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.ZigZag" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.GrayCode" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ConvertSortedListToBST" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.All in cleancode" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ZigZag" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.BadNeighbors" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.ZigZag" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.All in cleancode" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.ConvertSortedListToBST" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.GrayCode" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.Parentheses" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.BadNeighbors" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ZigZag" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.All in cleancode" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ConvertSortedListToBST" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.GrayCode" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1052,7 +1044,7 @@
       <workItem from="1420005199010" duration="11731000" />
       <workItem from="1420181843875" duration="7153000" />
       <workItem from="1420369598476" duration="11586000" />
-      <workItem from="1420512462220" duration="28559000" />
+      <workItem from="1420512462220" duration="30386000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode: is palindrome&#10;tag: String">
       <created>1418642629519</created>
@@ -1150,7 +1142,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="209729000" />
+    <option name="totallyTimeSpent" value="211556000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1174,7 +1166,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1600" height="866" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1195,8 +1187,8 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.212987" sideWeight="0.49896482" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33333334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.212987" sideWeight="0.49896482" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33333334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1621,7 +1613,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/topcoder/BadNeighbors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="679" selection-end="679" vertical-scroll-proportion="0.7889688" vertical-offset="221" max-vertical-offset="946">
+        <state line="15" column="7" selection-start="257" selection-end="257" vertical-scroll-proportion="-1.3717027" vertical-offset="902" max-vertical-offset="1408">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
