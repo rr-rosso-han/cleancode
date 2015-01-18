@@ -2,19 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3349dfb5-1966-4152-9ea9-93a65356998e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/topcoder/AvoidRoads.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/facebook/Container.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/stack/EvaluateReversePolishNotation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/topcoder/FlowerGarden.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dp/MaximumProductSubarray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dp/MaximumSumSubarray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/discussion/ParseString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dp/UniquePaths.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dp/UniquePathsII.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/stack/ValidParentheses.java" afterPath="$PROJECT_DIR$/src/stack/ValidParentheses.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/jiahan.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/jiahan.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dp/BestTimetoBuyandSellStock.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BinarySearch/FindMinimuminRotatedSortedArrayII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BinarySearch/FindMinimuminSortedRotatedArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/backtrack/Permutations.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/backtrack/PermutationsII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BinarySearch/SearchInsertPosition.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/backtrack/Subsets.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/backtrack/SubsetsII.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="206f938f-3e62-4c4a-b60f-374686d8d4c0" name="Failed commit: Default" comment="leetcode: Merge K sorted Lists&#10;tag: linked list" />
@@ -92,6 +87,51 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/BinarySearch/FindMinimuminSortedRotatedArray.java" line="31" class="BinarySearch.FindMinimuminSortedRotatedArray" package="BinarySearch">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/BinarySearch/FindMinimuminRotatedSortedArrayII.java" line="32" class="BinarySearch.FindMinimuminRotatedSortedArrayII" package="BinarySearch">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/backtrack/Permutations.java" line="35" class="backtrack.Permutations" package="backtrack">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
     </line_breakpoints>
     <breakpoint_rules />
     <ui_properties />
@@ -102,93 +142,94 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CloneGraph.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/graph/CloneGraph.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="13" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="1430">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AddTwoNumbers.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/linkedList/AddTwoNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="13" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="2310">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MergeKSortedLists.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/linkedList/MergeKSortedLists.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="77" column="13" selection-start="2010" selection-end="2010" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1958">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RandomListNode.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/linkedList/RandomListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="13" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="352">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReverseInteger.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/math/ReverseInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="13" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0" vertical-offset="185" max-vertical-offset="836">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IntegerToRoman.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/misc/IntegerToRoman.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="15" selection-start="398" selection-end="398" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="836">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EvaluateReversePolishNotation.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/stack/EvaluateReversePolishNotation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="57" selection-start="339" selection-end="374" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1826">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MaximumSumSubarray.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/dp/MaximumSumSubarray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="19" selection-start="791" selection-end="791" vertical-scroll-proportion="0.0" vertical-offset="287" max-vertical-offset="1078">
+            <state line="28" column="27" selection-start="751" selection-end="751" vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="1078">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchInsertPosition.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BinarySearch/SearchInsertPosition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="27" selection-start="1139" selection-end="1139" vertical-scroll-proportion="0.0" vertical-offset="880" max-vertical-offset="1210">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GrayCode.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/backtrack/GrayCode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="13" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="242" max-vertical-offset="1056">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Permutations.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/backtrack/Permutations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="4" selection-start="306" selection-end="1214" vertical-scroll-proportion="0.0" vertical-offset="352" max-vertical-offset="1188">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PermutationsII.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/backtrack/PermutationsII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="4" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="1100">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Subsets.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/backtrack/Subsets.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="5" selection-start="487" selection-end="487" vertical-scroll-proportion="0.0" vertical-offset="418" max-vertical-offset="880">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SubsetsII.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/backtrack/SubsetsII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="1" selection-start="1114" selection-end="1114" vertical-scroll-proportion="0.79877114" vertical-offset="250" max-vertical-offset="924">
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#353#368#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MaximumProductSubarray.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/dp/MaximumProductSubarray.java">
+      <file leaf-file-name="BestTimetoBuyandSellStock.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dp/BestTimetoBuyandSellStock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="5" selection-start="649" selection-end="649" vertical-scroll-proportion="0.7889688" vertical-offset="199" max-vertical-offset="704">
+            <state line="7" column="0" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0" vertical-offset="154" max-vertical-offset="286">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PlusOne.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/math/PlusOne.java">
+      <file leaf-file-name="FindMinimuminSortedRotatedArray.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BinarySearch/FindMinimuminSortedRotatedArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="9" selection-start="629" selection-end="629" vertical-scroll-proportion="0.0" vertical-offset="617" max-vertical-offset="1320">
+            <state line="55" column="5" selection-start="747" selection-end="1507" vertical-scroll-proportion="0.0" vertical-offset="757" max-vertical-offset="1408">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindMinimuminRotatedSortedArrayII.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BinarySearch/FindMinimuminRotatedSortedArrayII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="52" column="22" selection-start="810" selection-end="1397" vertical-scroll-proportion="0.0" vertical-offset="1144" max-vertical-offset="1342">
               <folding />
             </state>
           </provider>
@@ -207,13 +248,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/facetoface/Solution.java" />
-        <option value="$PROJECT_DIR$/src/linkedlist/MergeKSortedLists.java" />
-        <option value="$PROJECT_DIR$/README" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/linkedlist/RandomListNode.java" />
-        <option value="$PROJECT_DIR$/src/linkedlist/CopyListwithRandomPointer.java" />
-        <option value="$PROJECT_DIR$/src/linkedList/AddTwoNumbers.java" />
         <option value="$PROJECT_DIR$/src/binaryTree/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/binaryTree/ValidateBinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/binaryTree/MaximumDepthofBinaryTree.java" />
@@ -258,6 +292,13 @@
         <option value="$PROJECT_DIR$/src/dp/UniquePathsII.java" />
         <option value="$PROJECT_DIR$/src/dp/MaximumSumSubarray.java" />
         <option value="$PROJECT_DIR$/src/dp/MaximumProductSubarray.java" />
+        <option value="$PROJECT_DIR$/src/BinarySearch/SearchInsertPosition.java" />
+        <option value="$PROJECT_DIR$/src/BinarySearch/FindMinimuminSortedRotatedArray.java" />
+        <option value="$PROJECT_DIR$/src/BinarySearch/FindMinimuminRotatedSortedArrayII.java" />
+        <option value="$PROJECT_DIR$/src/backtrack/Permutations.java" />
+        <option value="$PROJECT_DIR$/src/backtrack/PermutationsII.java" />
+        <option value="$PROJECT_DIR$/src/backtrack/Subsets.java" />
+        <option value="$PROJECT_DIR$/src/backtrack/SubsetsII.java" />
       </list>
     </option>
   </component>
@@ -563,6 +604,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="BinarySearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cleancode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cleancode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="backtrack" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -651,123 +710,7 @@
     <property name="FullScreen" value="false" />
     <property name="SearchEverywhereHistory" value="&#10;sh" />
   </component>
-  <component name="RunManager" selected="JUnit.MaximumSumSubarray">
-    <configuration default="false" name="ZigZag" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="topcoder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="cleancode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="topcoder" />
-      <option name="MAIN_CLASS_NAME" value="topcoder.ZigZag" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="BadNeighbors" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="topcoder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="cleancode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="topcoder" />
-      <option name="MAIN_CLASS_NAME" value="topcoder.BadNeighbors" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="FlowerGarden" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="topcoder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="cleancode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="topcoder" />
-      <option name="MAIN_CLASS_NAME" value="topcoder.FlowerGarden" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <ConfigurationWrapper RunnerId="Debug" />
-      <method />
-    </configuration>
-    <configuration default="false" name="EvaluateReversePolishNotation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="cleancode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="stack" />
-      <option name="MAIN_CLASS_NAME" value="stack.EvaluateReversePolishNotation" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.Permutations">
     <configuration default="false" name="MaximumSumSubarray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -794,6 +737,140 @@
       <patterns />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SearchInsertPosition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="cleancode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="BinarySearch" />
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.SearchInsertPosition" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="FindMinimuminSortedRotatedArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="cleancode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="BinarySearch" />
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.FindMinimuminSortedRotatedArray" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="FindMinimuminRotatedSortedArrayII" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="cleancode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="BinarySearch" />
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.FindMinimuminRotatedSortedArrayII" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Permutations" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="backtrack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="cleancode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="backtrack" />
+      <option name="MAIN_CLASS_NAME" value="backtrack.Permutations" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <ConfigurationWrapper RunnerId="Debug" />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
@@ -1004,19 +1081,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JUnit.LongestPalindromicSubstring" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.ZigZag" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.BadNeighbors" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.FlowerGarden" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.EvaluateReversePolishNotation" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.MaximumSumSubarray" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.MaximumSumSubarray" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.SearchInsertPosition" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.FindMinimuminSortedRotatedArray" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.FindMinimuminRotatedSortedArrayII" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.Permutations" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.MaximumSumSubarray" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.EvaluateReversePolishNotation" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.FlowerGarden" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.BadNeighbors" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.ZigZag" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.Permutations" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.FindMinimuminRotatedSortedArrayII" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.FindMinimuminSortedRotatedArray" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.SearchInsertPosition" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.MaximumSumSubarray" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1069,7 +1146,9 @@
       <workItem from="1421067631842" duration="317000" />
       <workItem from="1421067955316" duration="10723000" />
       <workItem from="1421143263889" duration="5031000" />
-      <workItem from="1421214525388" duration="3807000" />
+      <workItem from="1421214525388" duration="14009000" />
+      <workItem from="1421410919300" duration="8909000" />
+      <workItem from="1421562037101" duration="595000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode: is palindrome&#10;tag: String">
       <created>1418642629519</created>
@@ -1167,7 +1246,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="256480000" />
+    <option name="totallyTimeSpent" value="276186000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1191,7 +1270,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1600" height="866" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1200,25 +1279,25 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.11396012" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36039886" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2113402" sideWeight="0.5010352" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32777777" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24967907" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.212987" sideWeight="0.49896482" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33333334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33333334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1266,74 +1345,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/amazon/ValidateStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="46" selection-start="379" selection-end="379" vertical-scroll-proportion="0.0" vertical-offset="352" max-vertical-offset="858">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/amazon/Parentheses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="13" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="2882">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/StrStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="13" selection-start="1140" selection-end="1140" vertical-scroll-proportion="0.0" vertical-offset="551" max-vertical-offset="1122">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/LongestSubstringWithoutRepeating.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="44" selection-start="1215" selection-end="1244" vertical-scroll-proportion="0.0" vertical-offset="594" max-vertical-offset="1782">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/LongestSubstring2Distinct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="30" selection-start="3336" selection-end="3347" vertical-scroll-proportion="0.0" vertical-offset="1731" max-vertical-offset="3674">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/LongestPalindromicSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="9" selection-start="3578" selection-end="3578" vertical-scroll-proportion="0.0" vertical-offset="1972" max-vertical-offset="2376">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dp/EditDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="1056">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/RotateString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="29" selection-start="269" selection-end="358" vertical-scroll-proportion="0.0" vertical-offset="147" max-vertical-offset="1364">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/OneEditDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="36" selection-start="588" selection-end="605" vertical-scroll-proportion="0.0" vertical-offset="683" max-vertical-offset="1100">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cleancode.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="440" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/binaryTree/BinaryTreeMaximumPathSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="5" selection-start="264" selection-end="264" vertical-scroll-proportion="0.0" vertical-offset="485" max-vertical-offset="1386">
@@ -1611,19 +1622,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dp/MaximumSumSubarray.java">
+    <entry file="jar://$PROJECT_DIR$/../../../junit-4.12-beta-2.jar!/org/junit/Assert.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="19" selection-start="791" selection-end="791" vertical-scroll-proportion="0.0" vertical-offset="287" max-vertical-offset="1078">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="95" column="23" selection-start="5661" selection-end="5661" vertical-scroll-proportion="0.0" vertical-offset="2090" max-vertical-offset="3564" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dp/MaximumProductSubarray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="5" selection-start="649" selection-end="649" vertical-scroll-proportion="0.7889688" vertical-offset="199" max-vertical-offset="704">
+        <state line="22" column="9" selection-start="620" selection-end="620" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="704">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dp/MaximumSumSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="27" selection-start="751" selection-end="751" vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="1078">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dp/BestTimetoBuyandSellStock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="286">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinarySearch/FindMinimuminSortedRotatedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="5" selection-start="747" selection-end="1507" vertical-scroll-proportion="0.0" vertical-offset="859" max-vertical-offset="1408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinarySearch/FindMinimuminRotatedSortedArrayII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="22" selection-start="810" selection-end="1397" vertical-scroll-proportion="0.0" vertical-offset="793" max-vertical-offset="1342">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinarySearch/SearchInsertPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="27" selection-start="1139" selection-end="1139" vertical-scroll-proportion="0.0" vertical-offset="295" max-vertical-offset="1144">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtrack/GrayCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="13" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="968">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtrack/Permutations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="4" selection-start="306" selection-end="1214" vertical-scroll-proportion="0.0" vertical-offset="352" max-vertical-offset="1188">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtrack/PermutationsII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="4" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="1100">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtrack/Subsets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="5" selection-start="487" selection-end="487" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="880">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtrack/SubsetsII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="1" selection-start="1114" selection-end="1114" vertical-scroll-proportion="0.79877114" vertical-offset="250" max-vertical-offset="924">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#353#368#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
