@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3349dfb5-1966-4152-9ea9-93a65356998e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dp/BestTimetoBuyandSellStock.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BinarySearch/FindMinimuminRotatedSortedArrayII.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BinarySearch/FindMinimuminSortedRotatedArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/backtrack/Permutations.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/backtrack/PermutationsII.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BinarySearch/SearchInsertPosition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/backtrack/Subsets.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/backtrack/SubsetsII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/backtrack/CombinationSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/backtrack/CombinationSumII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/backtrack/Combinations.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/backtrack/LetterCombinationsofaPhoneNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/backtrack/PalindromePartitioning.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="206f938f-3e62-4c4a-b60f-374686d8d4c0" name="Failed commit: Default" comment="leetcode: Merge K sorted Lists&#10;tag: linked list" />
@@ -132,6 +129,21 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/backtrack/CombinationSumII.java" line="40" class="backtrack.CombinationSumII" package="backtrack">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
     </line_breakpoints>
     <breakpoint_rules />
     <ui_properties />
@@ -142,19 +154,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MaximumSumSubarray.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dp/MaximumSumSubarray.java">
+      <file leaf-file-name="PermutationsII.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/backtrack/PermutationsII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="27" selection-start="751" selection-end="751" vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="1078">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SearchInsertPosition.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BinarySearch/SearchInsertPosition.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="27" selection-start="1139" selection-end="1139" vertical-scroll-proportion="0.0" vertical-offset="880" max-vertical-offset="1210">
+            <state line="10" column="4" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="1100">
               <folding />
             </state>
           </provider>
@@ -163,25 +166,7 @@
       <file leaf-file-name="GrayCode.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/backtrack/GrayCode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="13" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="242" max-vertical-offset="1056">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Permutations.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/backtrack/Permutations.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="4" selection-start="306" selection-end="1214" vertical-scroll-proportion="0.0" vertical-offset="352" max-vertical-offset="1188">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PermutationsII.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/backtrack/PermutationsII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="4" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="1100">
+            <state line="21" column="16" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="968">
               <folding />
             </state>
           </provider>
@@ -196,10 +181,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SubsetsII.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="SubsetsII.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/backtrack/SubsetsII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="1" selection-start="1114" selection-end="1114" vertical-scroll-proportion="0.79877114" vertical-offset="250" max-vertical-offset="924">
+            <state line="35" column="1" selection-start="1114" selection-end="1114" vertical-scroll-proportion="0.0" vertical-offset="250" max-vertical-offset="924">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#353#368#0" expanded="true" />
@@ -208,28 +193,65 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Combinations.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/backtrack/Combinations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="9" selection-start="786" selection-end="786" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="946">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CombinationSum.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/backtrack/CombinationSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="51" column="28" selection-start="1392" selection-end="1392" vertical-scroll-proportion="0.0" vertical-offset="779" max-vertical-offset="1430">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CombinationSumII.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/backtrack/CombinationSumII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="58" column="5" selection-start="1620" selection-end="1620" vertical-scroll-proportion="0.0" vertical-offset="990" max-vertical-offset="1452">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LetterCombinationsofaPhoneNumber.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/backtrack/LetterCombinationsofaPhoneNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="12" selection-start="385" selection-end="413" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="1144">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PalindromePartitioning.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/backtrack/PalindromePartitioning.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="54" column="5" selection-start="1490" selection-end="1490" vertical-scroll-proportion="0.55778897" vertical-offset="966" max-vertical-offset="1364">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="BestTimetoBuyandSellStock.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/dp/BestTimetoBuyandSellStock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0" vertical-offset="154" max-vertical-offset="286">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindMinimuminSortedRotatedArray.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BinarySearch/FindMinimuminSortedRotatedArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="5" selection-start="747" selection-end="1507" vertical-scroll-proportion="0.0" vertical-offset="757" max-vertical-offset="1408">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindMinimuminRotatedSortedArrayII.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BinarySearch/FindMinimuminRotatedSortedArrayII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="22" selection-start="810" selection-end="1397" vertical-scroll-proportion="0.0" vertical-offset="1144" max-vertical-offset="1342">
+            <state line="5" column="13" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="286">
               <folding />
             </state>
           </provider>
@@ -248,11 +270,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/binaryTree/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/binaryTree/ValidateBinarySearchTree.java" />
-        <option value="$PROJECT_DIR$/src/binaryTree/MaximumDepthofBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/binaryTree/MinimumDepthofBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/string/RemoveVowels.java" />
         <option value="$PROJECT_DIR$/src/amazon/Parenthese.java" />
         <option value="$PROJECT_DIR$/src/amazon/LinkedListNode.java" />
         <option value="$PROJECT_DIR$/src/amazon/Parentheses.java" />
@@ -299,6 +316,11 @@
         <option value="$PROJECT_DIR$/src/backtrack/PermutationsII.java" />
         <option value="$PROJECT_DIR$/src/backtrack/Subsets.java" />
         <option value="$PROJECT_DIR$/src/backtrack/SubsetsII.java" />
+        <option value="$PROJECT_DIR$/src/backtrack/Combinations.java" />
+        <option value="$PROJECT_DIR$/src/backtrack/CombinationSum.java" />
+        <option value="$PROJECT_DIR$/src/backtrack/CombinationSumII.java" />
+        <option value="$PROJECT_DIR$/src/backtrack/LetterCombinationsofaPhoneNumber.java" />
+        <option value="$PROJECT_DIR$/src/backtrack/PalindromePartitioning.java" />
       </list>
     </option>
   </component>
@@ -710,35 +732,7 @@
     <property name="FullScreen" value="false" />
     <property name="SearchEverywhereHistory" value="&#10;sh" />
   </component>
-  <component name="RunManager" selected="JUnit.Permutations">
-    <configuration default="false" name="MaximumSumSubarray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="dp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="cleancode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="dp" />
-      <option name="MAIN_CLASS_NAME" value="dp.MaximumSumSubarray" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.CombinationSumII">
     <configuration default="false" name="SearchInsertPosition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -853,6 +847,38 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="backtrack" />
       <option name="MAIN_CLASS_NAME" value="backtrack.Permutations" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <ConfigurationWrapper RunnerId="Debug" />
+      <method />
+    </configuration>
+    <configuration default="false" name="CombinationSumII" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="backtrack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="cleancode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="backtrack" />
+      <option name="MAIN_CLASS_NAME" value="backtrack.CombinationSumII" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -1081,19 +1107,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JUnit.LongestPalindromicSubstring" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.MaximumSumSubarray" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.SearchInsertPosition" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.FindMinimuminSortedRotatedArray" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.FindMinimuminRotatedSortedArrayII" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.Permutations" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.SearchInsertPosition" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.FindMinimuminSortedRotatedArray" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.FindMinimuminRotatedSortedArrayII" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.Permutations" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.CombinationSumII" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.Permutations" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.FindMinimuminRotatedSortedArrayII" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.FindMinimuminSortedRotatedArray" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.SearchInsertPosition" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.MaximumSumSubarray" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.CombinationSumII" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.Permutations" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.FindMinimuminRotatedSortedArrayII" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.FindMinimuminSortedRotatedArray" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.SearchInsertPosition" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1148,7 +1174,7 @@
       <workItem from="1421143263889" duration="5031000" />
       <workItem from="1421214525388" duration="14009000" />
       <workItem from="1421410919300" duration="8909000" />
-      <workItem from="1421562037101" duration="595000" />
+      <workItem from="1421562037101" duration="18722000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode: is palindrome&#10;tag: String">
       <created>1418642629519</created>
@@ -1246,7 +1272,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="276186000" />
+    <option name="totallyTimeSpent" value="294313000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1270,7 +1296,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1600" height="866" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1279,12 +1305,13 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36039886" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36039886" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2113402" sideWeight="0.5010352" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32777777" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24967907" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1296,7 +1323,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1345,41 +1371,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/binaryTree/BinaryTreeMaximumPathSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="5" selection-start="264" selection-end="264" vertical-scroll-proportion="0.0" vertical-offset="485" max-vertical-offset="1386">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/discussion/ParseString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="1" selection-start="1150" selection-end="1150" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/topcoder/BadNeighbors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="9" selection-start="1716" selection-end="1716" vertical-scroll-proportion="0.0" vertical-offset="726" max-vertical-offset="1364">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/ReadNChars.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="45" selection-start="840" selection-end="849" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="836">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/ReverseWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="16" selection-start="2155" selection-end="2155" vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="1738">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/string/ValidNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="18" selection-start="219" selection-end="227" vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="2200">
@@ -1641,13 +1632,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dp/BestTimetoBuyandSellStock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="286">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BinarySearch/FindMinimuminSortedRotatedArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="55" column="5" selection-start="747" selection-end="1507" vertical-scroll-proportion="0.0" vertical-offset="859" max-vertical-offset="1408">
@@ -1665,13 +1649,6 @@
     <entry file="file://$PROJECT_DIR$/src/BinarySearch/SearchInsertPosition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="40" column="27" selection-start="1139" selection-end="1139" vertical-scroll-proportion="0.0" vertical-offset="295" max-vertical-offset="1144">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/backtrack/GrayCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="13" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="968">
           <folding />
         </state>
       </provider>
@@ -1699,10 +1676,69 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/backtrack/SubsetsII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="1" selection-start="1114" selection-end="1114" vertical-scroll-proportion="0.79877114" vertical-offset="250" max-vertical-offset="924">
+        <state line="35" column="1" selection-start="1114" selection-end="1114" vertical-scroll-proportion="0.0" vertical-offset="250" max-vertical-offset="924">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#353#368#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dp/BestTimetoBuyandSellStock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="286">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtrack/Combinations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="9" selection-start="786" selection-end="786" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="946">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtrack/CombinationSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="28" selection-start="1392" selection-end="1392" vertical-scroll-proportion="0.0" vertical-offset="779" max-vertical-offset="1430">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtrack/CombinationSumII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="5" selection-start="1620" selection-end="1620" vertical-scroll-proportion="0.0" vertical-offset="990" max-vertical-offset="1452">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtrack/LetterCombinationsofaPhoneNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="12" selection-start="385" selection-end="413" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="1144">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtrack/GrayCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="16" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="968">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtrack/PalindromePartitioning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="5" selection-start="1490" selection-end="1490" vertical-scroll-proportion="0.55778897" vertical-offset="966" max-vertical-offset="1364">
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
