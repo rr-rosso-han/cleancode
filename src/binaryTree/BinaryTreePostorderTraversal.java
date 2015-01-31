@@ -7,30 +7,30 @@ import java.util.Stack;
 /**
  * Created by jiahan on 1/29/15.
  */
-public class BinaryTreePostorderTraversal {
-    private List<Integer> result = new ArrayList<>();
-    public List<Integer> postorderTraversal(TreeNode root) {
+public class BinaryTreePostorderTraversal<E> {
+    private List<E> result = new ArrayList<>();
+    public List<E> postorderTraversal(TreeNode<E> root) {
         if (root == null) {
             return result;
         }
 
         postorderTraversal(root.left);
         postorderTraversal(root.right);
-        result.add(root.val);
+        result.add(root.item);
         return result;
     }
 
-    public List<Integer> postorderTraversalIteration(TreeNode root) {
-        List<Integer> list = new ArrayList<>();
+    public List<E> postorderTraversalIteration(TreeNode<E> root) {
+        List<E> list = new ArrayList<>();
         if (root == null) {
             return list;
         }
         Stack<TreeNode> stack = new Stack<>();
         stack.add(root);
         while (!stack.isEmpty()) {
-            TreeNode node = stack.pop();
+            TreeNode<E> node = stack.pop();
             if (node != null) {
-                list.add(0, node.val);
+                list.add(0, node.item);
             }
             if (node.left != null) {
                 stack.push(node.left);

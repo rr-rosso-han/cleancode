@@ -3,10 +3,10 @@ package binaryTree;
 /**
  * Created by jiahan on 1/1/15.
  */
-public class BinaryTreeMaximumPathSum {
+public class BinaryTreeMaximumPathSum<E> {
 
     private int maxSum = Integer.MIN_VALUE;
-    public int maxPathSum(TreeNode root) {
+    public int maxPathSum(TreeNode<E> root) {
         findMax(root);
         //maxSum(root);
         return maxSum;
