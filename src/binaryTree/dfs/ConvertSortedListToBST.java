@@ -1,5 +1,7 @@
-package binaryTree;
+package binaryTree.dfs;
 
+import binaryTree.ListNode;
+import binaryTree.TreeNode;
 import org.junit.Test;
 
 /**

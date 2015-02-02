@@ -1,4 +1,6 @@
-package binaryTree;
+package binaryTree.dfs;
+
+import binaryTree.TreeNode;
 
 /**
  * Created by jiahan on 12/29/14.

@@ -1,4 +1,6 @@
-package binaryTree;
+package binaryTree.dfs;
+
+import binaryTree.TreeNode;
 
 import java.util.HashMap;
 import java.util.Map;

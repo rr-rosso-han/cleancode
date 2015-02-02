@@ -1,5 +1,6 @@
-package binaryTree;
+package binaryTree.dfs;
 
+import binaryTree.TreeNode;
 import com.sun.swing.internal.plaf.metal.resources.metal;
 
 /**
