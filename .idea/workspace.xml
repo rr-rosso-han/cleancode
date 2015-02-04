@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3349dfb5-1966-4152-9ea9-93a65356998e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/binaryTree/dfs/ConstructBinaryTreefromInorderandPostorderTraversal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/binaryTree/dfs/ConstructBinaryTreefromPreorderandInorderTraversal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/binaryTree/dfs/FlattenBinaryTreetoLinkedList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/binaryTree/dfs/PathSum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/binaryTree/dfs/PopulatingNextRightPointersinEachNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/binaryTree/dfs/PopulatingNextRightPointersinEachNodeII.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/binaryTree/dfs/SameTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/binaryTree/dfs/SumRoottoLeafNumbers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/binaryTree/dfs/TreeLinkNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/binaryTree/dfs/PathSumII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/binaryTree/dfs/PathSum.java" afterPath="$PROJECT_DIR$/src/binaryTree/dfs/PathSum.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="206f938f-3e62-4c4a-b60f-374686d8d4c0" name="Failed commit: Default" comment="leetcode: Merge K sorted Lists&#10;tag: linked list" />
@@ -418,6 +411,21 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/binaryTree/dfs/PathSum.java" line="47" class="binaryTree.dfs.PathSum" package="binaryTree.dfs">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
     </line_breakpoints>
     <breakpoint_rules />
     <ui_properties />
@@ -428,33 +436,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PopulatingNextRightPointersinEachNode.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/binaryTree/dfs/PopulatingNextRightPointersinEachNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="45" selection-start="217" selection-end="530" vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="1606">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PopulatingNextRightPointersinEachNodeII.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/binaryTree/dfs/PopulatingNextRightPointersinEachNodeII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="11" selection-start="1627" selection-end="1627" vertical-scroll-proportion="0.0" vertical-offset="1474" max-vertical-offset="1738">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FlattenBinaryTreetoLinkedList.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/binaryTree/dfs/FlattenBinaryTreetoLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="17" selection-start="1014" selection-end="1014" vertical-scroll-proportion="0.0" vertical-offset="267" max-vertical-offset="1188">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ConstructBinaryTreefromPreorderandInorderTraversal.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/binaryTree/dfs/ConstructBinaryTreefromPreorderandInorderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -475,11 +456,60 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PathSum.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="PathSum.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/binaryTree/dfs/PathSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="20" selection-start="85" selection-end="85" vertical-scroll-proportion="0.29333332" vertical-offset="0" max-vertical-offset="375">
+            <state line="45" column="14" selection-start="1208" selection-end="1208" vertical-scroll-proportion="0.0" vertical-offset="231" max-vertical-offset="1716">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PathSumII.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/binaryTree/dfs/PathSumII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="13" selection-start="78" selection-end="78" vertical-scroll-proportion="0.25641027" vertical-offset="0" max-vertical-offset="429">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedTreeIterator.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/binaryTree/LinkedTreeIterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="1" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintBSTkeysInTheGivenRange.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/binaryTree/PrintBSTkeysInTheGivenRange.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="43" column="31" selection-start="1102" selection-end="1102" vertical-scroll-proportion="0.0" vertical-offset="218" max-vertical-offset="1210">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaximumSumSubarray.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dp/MaximumSumSubarray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="8" selection-start="281" selection-end="345" vertical-scroll-proportion="0.0" vertical-offset="88" max-vertical-offset="1034">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SumRoottoLeafNumbers.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/binaryTree/dfs/SumRoottoLeafNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="74" column="9" selection-start="2176" selection-end="2176" vertical-scroll-proportion="0.0" vertical-offset="1407" max-vertical-offset="2112">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -502,24 +532,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReverseLinkedList.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/linkedList/ReverseLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="9" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0" vertical-offset="22" max-vertical-offset="1320">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FrameworkMethod.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../../../junit-4.12-beta-2.jar!/org/junit/runners/model/FrameworkMethod.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="633" selection-end="633" vertical-scroll-proportion="0.0" vertical-offset="308" max-vertical-offset="1232">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -533,8 +545,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/backtrack/PermutationsII.java" />
-        <option value="$PROJECT_DIR$/src/backtrack/Subsets.java" />
         <option value="$PROJECT_DIR$/src/backtrack/SubsetsII.java" />
         <option value="$PROJECT_DIR$/src/backtrack/Combinations.java" />
         <option value="$PROJECT_DIR$/src/backtrack/CombinationSum.java" />
@@ -584,6 +594,8 @@
         <option value="$PROJECT_DIR$/src/binaryTree/dfs/FlattenBinaryTreetoLinkedList.java" />
         <option value="$PROJECT_DIR$/src/binaryTree/dfs/ConstructBinaryTreefromPreorderandInorderTraversal.java" />
         <option value="$PROJECT_DIR$/src/binaryTree/dfs/ConstructBinaryTreefromInorderandPostorderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/binaryTree/dfs/PathSum.java" />
+        <option value="$PROJECT_DIR$/src/binaryTree/dfs/PathSumII.java" />
       </list>
     </option>
   </component>
@@ -1021,39 +1033,7 @@
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
   </component>
-  <component name="RunManager" selected="JUnit.ConstructBinaryTreefromPreorderandInorderTraversal">
-    <configuration default="false" name="SymmetricTree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="binaryTree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="cleancode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="binaryTree.dfs" />
-      <option name="MAIN_CLASS_NAME" value="binaryTree.dfs.SymmetricTree" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <ConfigurationWrapper RunnerId="Debug" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.PathSum">
     <configuration default="false" name="PopulatingNextRightPointersinEachNode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -1180,6 +1160,40 @@
         <option name="LOCAL" value="true" />
       </RunnerSettings>
       <ConfigurationWrapper RunnerId="Debug" />
+      <method />
+    </configuration>
+    <configuration default="false" name="PathSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="binaryTree.dfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="cleancode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="binaryTree.dfs" />
+      <option name="MAIN_CLASS_NAME" value="binaryTree.dfs.PathSum" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails" singleton="true">
@@ -1425,19 +1439,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="JUnit.SearchforaRange" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.LongestPalindromicSubstring" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.SymmetricTree" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.PopulatingNextRightPointersinEachNode" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.PopulatingNextRightPointersinEachNodeII" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.FlattenBinaryTreetoLinkedList" />
-      <item index="6" class="java.lang.String" itemvalue="JUnit.ConstructBinaryTreefromPreorderandInorderTraversal" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.PopulatingNextRightPointersinEachNode" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.PopulatingNextRightPointersinEachNodeII" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.FlattenBinaryTreetoLinkedList" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.ConstructBinaryTreefromPreorderandInorderTraversal" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.PathSum" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.ConstructBinaryTreefromPreorderandInorderTraversal" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.FlattenBinaryTreetoLinkedList" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.PopulatingNextRightPointersinEachNodeII" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.PopulatingNextRightPointersinEachNode" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.SymmetricTree" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.PathSum" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ConstructBinaryTreefromPreorderandInorderTraversal" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.FlattenBinaryTreetoLinkedList" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.PopulatingNextRightPointersinEachNodeII" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.PopulatingNextRightPointersinEachNode" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1509,7 +1523,7 @@
       <workItem from="1422747357579" duration="13598000" />
       <workItem from="1422835897032" duration="10070000" />
       <workItem from="1422925369839" duration="24871000" />
-      <workItem from="1423040778305" duration="7895000" />
+      <workItem from="1423040778305" duration="11106000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode: is palindrome&#10;tag: String">
       <created>1418642629519</created>
@@ -1607,7 +1621,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="464758000" />
+    <option name="totallyTimeSpent" value="467969000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1641,10 +1655,10 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32777777" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37638888" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37638888" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33333334" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1996149" sideWeight="0.16926503" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1996149" sideWeight="0.16875" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32777777" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1653,8 +1667,8 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1996149" sideWeight="0.83073497" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33333334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1996149" sideWeight="0.82916665" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33333334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1706,16 +1720,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/facetoface/Friends.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="9" selection-start="574" selection-end="574" vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="924" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinarySearch/SearchinRotatedSortedArrayII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="21" selection-start="706" selection-end="706" vertical-scroll-proportion="0.0" vertical-offset="163" max-vertical-offset="858" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BinarySearch/SearchinRotatedSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="53" column="9" selection-start="1131" selection-end="1131" vertical-scroll-proportion="0.0" vertical-offset="801" max-vertical-offset="1452">
@@ -1742,7 +1746,9 @@
     </entry>
     <entry file="jar://C:/Java/jdk1.8.0_25/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="584" column="9" selection-start="26467" selection-end="26467" vertical-scroll-proportion="0.0" vertical-offset="12059" max-vertical-offset="15774" />
+        <state line="584" column="9" selection-start="26467" selection-end="26467" vertical-scroll-proportion="0.0" vertical-offset="12059" max-vertical-offset="15774">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/binaryTree/BinaryTreeInorderTraversal.java">
@@ -1778,18 +1784,6 @@
     <entry file="file://$PROJECT_DIR$/src/binaryTree/InsertNodeToBST.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="9" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="550" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/binaryTree/PrintBSTkeysInTheGivenRange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="31" selection-start="1102" selection-end="1102" vertical-scroll-proportion="0.0" vertical-offset="541" max-vertical-offset="1276">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/binaryTree/LinkedTreeIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="1" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/binaryTree/dfs/BalancedBinaryTree.java">
@@ -1833,7 +1827,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/binaryTree/BinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="33" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0" vertical-offset="2904" max-vertical-offset="4004" />
+        <state line="23" column="33" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0" vertical-offset="2904" max-vertical-offset="4004">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/binaryTree/BinaryTreePreorderTraversal.java">
@@ -1906,11 +1902,6 @@
         <state line="34" column="9" selection-start="848" selection-end="848" vertical-scroll-proportion="0.0" vertical-offset="431" max-vertical-offset="1936">
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/binaryTree/dfs/SumRoottoLeafNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="9" selection-start="2387" selection-end="2387" vertical-scroll-proportion="0.0" vertical-offset="1355" max-vertical-offset="2112" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/linkedList/ListNode.java">
@@ -2006,9 +1997,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/binaryTree/dfs/SumRoottoLeafNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="9" selection-start="2176" selection-end="2176" vertical-scroll-proportion="0.0" vertical-offset="1407" max-vertical-offset="2112">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binaryTree/LinkedTreeIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="1" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binaryTree/PrintBSTkeysInTheGivenRange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="31" selection-start="1102" selection-end="1102" vertical-scroll-proportion="0.0" vertical-offset="541" max-vertical-offset="1276">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dp/MaximumSumSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="8" selection-start="281" selection-end="345" vertical-scroll-proportion="0.0" vertical-offset="88" max-vertical-offset="1034">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/binaryTree/dfs/PathSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="20" selection-start="85" selection-end="85" vertical-scroll-proportion="0.29333332" vertical-offset="0" max-vertical-offset="375">
+        <state line="45" column="14" selection-start="1208" selection-end="1208" vertical-scroll-proportion="0.0" vertical-offset="231" max-vertical-offset="1716">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binaryTree/dfs/PathSumII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="78" selection-end="78" vertical-scroll-proportion="0.25641027" vertical-offset="0" max-vertical-offset="429">
           <folding />
         </state>
       </provider>
