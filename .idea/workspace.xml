@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3349dfb5-1966-4152-9ea9-93a65356998e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/binaryTree/dfs/PathSumII.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/binaryTree/dfs/PathSum.java" afterPath="$PROJECT_DIR$/src/binaryTree/dfs/PathSum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/binaryTree/dfs/PathSumII.java" afterPath="$PROJECT_DIR$/src/binaryTree/dfs/PathSumII.java" />
     </list>
     <list id="206f938f-3e62-4c4a-b60f-374686d8d4c0" name="Failed commit: Default" comment="leetcode: Merge K sorted Lists&#10;tag: linked list" />
     <ignored path="cleancode.iws" />
@@ -470,8 +468,10 @@
       <file leaf-file-name="PathSumII.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/binaryTree/dfs/PathSumII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="13" selection-start="78" selection-end="78" vertical-scroll-proportion="0.25641027" vertical-offset="0" max-vertical-offset="429">
-              <folding />
+            <state line="38" column="9" selection-start="1066" selection-end="1066" vertical-scroll-proportion="0.5641026" vertical-offset="594" max-vertical-offset="1386">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1523,7 +1523,7 @@
       <workItem from="1422747357579" duration="13598000" />
       <workItem from="1422835897032" duration="10070000" />
       <workItem from="1422925369839" duration="24871000" />
-      <workItem from="1423040778305" duration="11106000" />
+      <workItem from="1423040778305" duration="13101000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode: is palindrome&#10;tag: String">
       <created>1418642629519</created>
@@ -1621,7 +1621,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="467969000" />
+    <option name="totallyTimeSpent" value="469964000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -2038,8 +2038,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/binaryTree/dfs/PathSumII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="78" selection-end="78" vertical-scroll-proportion="0.25641027" vertical-offset="0" max-vertical-offset="429">
-          <folding />
+        <state line="38" column="9" selection-start="1066" selection-end="1066" vertical-scroll-proportion="0.5641026" vertical-offset="594" max-vertical-offset="1386">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
