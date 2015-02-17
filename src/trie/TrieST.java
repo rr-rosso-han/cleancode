@@ -7,6 +7,8 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Queue;
 
+import static org.junit.Assert.assertEquals;
+
 /**
  * Created by jiahan on 2/12/15.
  */
@@ -14,11 +16,6 @@ public class TrieST<Value> {
     private static int R = 256;
     private TrieTreeNode root;
     private int N;          // number of keys in trie
-
-    private static class Node {
-        private Object val;
-        private Node[] next = new Node[R];
-    }
 
     public Value get(String key) {
         TrieTreeNode x = get(root, key, 0);
@@ -182,6 +179,49 @@ public class TrieST<Value> {
         if (d == s.length()) return length;
         char c = s.charAt(d);
         return search(x.next[c], s, d + 1, length);
+    }
+
+    @Test
+    public void shortestUniquePrefix() {
+        System.out.println("=============shortestUniquePrefix()=============");
+        String s = "cat";
+        String[] c = {"dog", "be", "cut", "car", "cat"};
+        for (int i = 0; i < c.length; i++) {
+            put(c[i], (Value) Integer.valueOf(i));
+        }
+        String r = shortestUniquePrefix(s);
+        assertEquals("failure - shortestUniquePrefix  of 'dog, be, cut, car, cat' not right",
+                null, r);
+        root = new TrieTreeNode();
+        String[] b = {"dog", "be", "cut", "car"};
+        for (int i = 0; i < b.length; i++) {
+            put(b[i], (Value) Integer.valueOf(i));
+        }
+        r = shortestUniquePrefix(s);
+        assertEquals("failure - shortestUniquePrefix  of 'dog, be, cut, car' not right",
+                "cat", r);
+        root = new TrieTreeNode();
+        String[] a = {"dog", "be", "cut"};
+        for (int i = 0; i < a.length; i++) {
+            put(a[i], (Value) Integer.valueOf(i));
+        }
+
+        r = shortestUniquePrefix(s);
+        assertEquals("failure - shortestUniquePrefix  of 'dog, be, cut' not right",
+                "ca", r);
+    }
+    public String shortestUniquePrefix(String s) {
+        int length = searchShort(root, s, 0, 0);
+        if (length == 0) return null;
+        return s.substring(0, length);
+    }
+
+    private int searchShort(TrieTreeNode x, String s, int d, int length) {
+        if (x == null) return length + 1;
+        if (x.val == null) length = d;
+        if (d == s.length()) return 0;
+        char c = s.charAt(d);
+        return searchShort(x.next[c], s, d + 1, length);
     }
 }
 
