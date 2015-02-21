@@ -30,7 +30,7 @@ public class ConvertSortedListToBST {
         TreeNode parent = new TreeNode(list.val);
         parent.left = leftNode;
         list = list.next;
-        parent.right = sortedListToBST(mid + 1, end);;
+        parent.right = sortedListToBST(mid + 1, end);
         return parent;
     }
 

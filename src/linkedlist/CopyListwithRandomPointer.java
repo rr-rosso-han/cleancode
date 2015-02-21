@@ -3,6 +3,7 @@ package linkedList;
 import java.util.HashMap;
 import java.util.Map;
 
+import com.sun.jndi.url.dns.dnsURLContext;
 import org.junit.Test;
 
 /**
@@ -41,6 +42,50 @@ public class CopyListwithRandomPointer {
             current.random = map2.get(current.random);
             current = current.next;
         }
+        return dummy.next;
+    }
+
+    public RandomListNode copyRandomList2(RandomListNode head) {
+        if (head == null) {
+            return null;
+        }
+        copyNext(head);
+        copyRandom(head);
+        return splitList(head);
+    }
+
+    private void copyNext(RandomListNode head) {
+        while (head != null) {
+            RandomListNode newNode = new RandomListNode(head.label);
+            newNode.random = head.random;
+            newNode.next = head.next;
+            head.next = newNode;
+            head = head.next.next;
+        }
+    }
+
+    private void copyRandom(RandomListNode head) {
+        while (head != null) {
+            if (head.next.random != null) {
+                head.next.random = head.random.next;
+            }
+            head = head.next.next;
+        }
+    }
+
+    private RandomListNode splitList(RandomListNode head) {
+        RandomListNode dummy = new RandomListNode(-1);
+        dummy.next = head;
+        RandomListNode current = dummy;
+        while (head != null) {
+            current.next = head.next;
+            current = current.next;
+            if (head.next != null) {
+                head.next = head.next.next;
+            }
+            head = head.next;
+        }
+
         return dummy.next;
     }
 }
