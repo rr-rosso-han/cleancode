@@ -1,12 +1,10 @@
-package amazon;
+package interview.amazon;
 
 import org.junit.Test;
 
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
-
-import amazon.LinkedListNode;
 
 import static org.junit.Assert.assertEquals;
 

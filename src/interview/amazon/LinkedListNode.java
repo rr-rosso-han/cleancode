@@ -1,4 +1,4 @@
-package amazon;
+package interview.amazon;
 
 /**
  * Created by jiahan on 12/26/14.

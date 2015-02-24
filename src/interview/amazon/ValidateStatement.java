@@ -1,4 +1,4 @@
-package amazon;
+package interview.amazon;
 
 import java.util.HashMap;
 import java.util.Map;

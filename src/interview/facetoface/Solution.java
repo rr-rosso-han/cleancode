@@ -1,4 +1,4 @@
-package facetoface;
+package interview.facetoface;
 
 public class Solution {
    int randomM() {
