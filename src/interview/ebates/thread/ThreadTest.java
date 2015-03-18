@@ -1,4 +1,4 @@
-package interview.ebates;
+package interview.ebates.thread;
 
 /**
  * Created by jiahan on 2/24/15.

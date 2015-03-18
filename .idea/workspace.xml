@@ -2,23 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3349dfb5-1966-4152-9ea9-93a65356998e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/ExceptionTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/array/FloodFill.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastructure/LRUCache.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bitmanipulation/RepeatedDNASequences.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/linkedList/ReverseNodesinkGroup.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/stack/SimplifyPath.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bfs/SurroundedRegions.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/ThreadTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bfs/WordLadder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bfs/WordLadderII.java" />
-      <change type="MOVED" beforePath="C:\dos\algorithms\codes\cleancode\src\amazon\LinkedListNode.java" afterPath="$PROJECT_DIR$/src/interview/amazon/LinkedListNode.java" />
-      <change type="MOVED" beforePath="C:\dos\algorithms\codes\cleancode\src\amazon\ListManipulation.java" afterPath="$PROJECT_DIR$/src/interview/amazon/ListManipulation.java" />
-      <change type="MOVED" beforePath="C:\dos\algorithms\codes\cleancode\src\amazon\Parentheses.java" afterPath="$PROJECT_DIR$/src/interview/amazon/Parentheses.java" />
-      <change type="MOVED" beforePath="C:\dos\algorithms\codes\cleancode\src\amazon\ValidateStatement.java" afterPath="$PROJECT_DIR$/src/interview/amazon/ValidateStatement.java" />
-      <change type="MOVED" beforePath="C:\dos\algorithms\codes\cleancode\src\facebook\Container.java" afterPath="$PROJECT_DIR$/src/interview/facebook/Container.java" />
-      <change type="MOVED" beforePath="C:\dos\algorithms\codes\cleancode\src\facetoface\Friends.java" afterPath="$PROJECT_DIR$/src/interview/facetoface/Friends.java" />
-      <change type="MOVED" beforePath="C:\dos\algorithms\codes\cleancode\src\facetoface\Solution.java" afterPath="$PROJECT_DIR$/src/interview/facetoface/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/classadapter/Adapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/classadapter/AdapterTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/objectadapter/AdapterTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hashtable/Anagrams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/thread/BankAccountTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/Factory/FactoryTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/thread/JoinDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/string/LongestCommonPrefix.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/Factory/MailSender.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/google/RemoveDuplicatesInArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/string/ReverseWordsinaStringII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/string/RotateArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/thread/RunnableTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/Factory/Sender.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/Factory/SimpleFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/Factory/SmsSender.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/Source.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/InterfaceAdapter/SourceSub1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/InterfaceAdapter/SourceSub2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/InterfaceAdapter/Sourceable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/proxy/Sourceable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/Targetable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/string/TextJustification.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/google/TopologicalSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hashtable/ValidSudoku.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/InterfaceAdapter/Wrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/objectadapter/Wrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/InterfaceAdapter/WrapperTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/string/ZigZagConversion.java" />
+      <change type="MOVED" beforePath="C:\dos\algorithms\codes\cleancode\src\interview\ebates\ThreadTest.java" afterPath="$PROJECT_DIR$/src/interview/ebates/thread/ThreadTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/jiahan.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/jiahan.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="206f938f-3e62-4c4a-b60f-374686d8d4c0" name="Failed commit: Default" comment="leetcode: Merge K sorted Lists&#10;tag: linked list" />
@@ -621,21 +635,6 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/trie/TrieST.java" line="213" class="trie.TrieST" package="trie">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
       <breakpoint url="file://$PROJECT_DIR$/src/dp/WordBreak.java" line="24" class="dp.WordBreak" package="dp">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
@@ -901,46 +900,94 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FloodFill.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/array/FloodFill.java">
+      <file leaf-file-name="ReverseWordsinaStringII.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/string/ReverseWordsinaStringII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="8" selection-start="386" selection-end="386" vertical-scroll-proportion="0.0" vertical-offset="4" max-vertical-offset="748">
+            <state line="6" column="4" selection-start="100" selection-end="731" vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="792">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Container.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/interview/facebook/Container.java">
+      <file leaf-file-name="RotateArray.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/string/RotateArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="35" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="902">
+            <state line="23" column="11" selection-start="554" selection-end="554" vertical-scroll-proportion="0.0" vertical-offset="506" max-vertical-offset="858">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Friends.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/interview/facetoface/Friends.java">
+      <file leaf-file-name="ZigZagConversion.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/string/ZigZagConversion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="13" selection-start="574" selection-end="574" vertical-scroll-proportion="0.0" vertical-offset="364" max-vertical-offset="924">
+            <state line="29" column="29" selection-start="146" selection-end="802" vertical-scroll-proportion="0.0" vertical-offset="638" max-vertical-offset="836">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThreadTest.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/interview/ebates/ThreadTest.java">
+      <file leaf-file-name="TrieTreeNode.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/trie/TrieTreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="1" selection-start="517" selection-end="517" vertical-scroll-proportion="0.51419556" vertical-offset="321" max-vertical-offset="638">
+            <state line="5" column="13" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0" vertical-offset="110" max-vertical-offset="330">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/interview/facetoface/Solution.java">
+      <file leaf-file-name="TrieST.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/trie/TrieST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="21" selection-start="145" selection-end="145" vertical-scroll-proportion="0.0" vertical-offset="462" max-vertical-offset="2904">
+            <state line="190" column="9" selection-start="5625" selection-end="5625" vertical-scroll-proportion="0.0" vertical-offset="4180" max-vertical-offset="5126">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LongestCommonPrefix.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/string/LongestCommonPrefix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="56" selection-start="155" selection-end="899" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="902">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TextJustification.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/string/TextJustification.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="0" selection-start="375" selection-end="375" vertical-scroll-proportion="0.81088823" vertical-offset="91" max-vertical-offset="572">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#244#252#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RotateString.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/string/RotateString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="43" column="5" selection-start="835" selection-end="1076" vertical-scroll-proportion="0.0" vertical-offset="946" max-vertical-offset="1408">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TopologicalSort.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/interview/google/TopologicalSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="5" selection-start="814" selection-end="814" vertical-scroll-proportion="0.0" vertical-offset="748" max-vertical-offset="1958">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoveDuplicatesInArray.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/interview/google/RemoveDuplicatesInArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="9" selection-start="501" selection-end="501" vertical-scroll-proportion="0.0" vertical-offset="462" max-vertical-offset="682">
               <folding />
             </state>
           </provider>
@@ -959,39 +1006,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/dp/Triangle.java" />
-        <option value="$PROJECT_DIR$/src/dp/MinimumPathSum.java" />
-        <option value="$PROJECT_DIR$/src/dp/DecodeWays.java" />
-        <option value="$PROJECT_DIR$/src/dp/BestTimetoBuyandSellStock.java" />
-        <option value="$PROJECT_DIR$/src/dp/BestTimetoBuyandSellStockII.java" />
-        <option value="$PROJECT_DIR$/src/dp/BestTimetoBuyandSellStockIII.java" />
-        <option value="$PROJECT_DIR$/src/dp/DistinctSubsequences.java" />
-        <option value="$PROJECT_DIR$/src/dp/InterleavingString.java" />
-        <option value="$PROJECT_DIR$/src/dp/LongestValidParentheses.java" />
-        <option value="$PROJECT_DIR$/src/dp/MaximalRectangle.java" />
-        <option value="$PROJECT_DIR$/src/stack/LargestRectangleinHistogram.java" />
-        <option value="$PROJECT_DIR$/src/stack/MaximalRectangle.java" />
-        <option value="$PROJECT_DIR$/src/dp/PalindromePartitioningII.java" />
-        <option value="$PROJECT_DIR$/src/dp/WildcardMatching.java" />
-        <option value="$PROJECT_DIR$/src/dp/RegularExpressionMatching.java" />
-        <option value="$PROJECT_DIR$/src/dp/ScrambleString.java" />
-        <option value="$PROJECT_DIR$/src/sort/SortColors.java" />
-        <option value="$PROJECT_DIR$/src/sort/InsertInterval.java" />
-        <option value="$PROJECT_DIR$/src/sort/MergeIntervals.java" />
-        <option value="$PROJECT_DIR$/src/dp/BestTimetoBuyandSellStockIV.java" />
-        <option value="$PROJECT_DIR$/src/linkedList/InsertionSortList.java" />
-        <option value="$PROJECT_DIR$/src/sort/BucketSort.java" />
-        <option value="$PROJECT_DIR$/src/sort/MaximumGap.java" />
-        <option value="$PROJECT_DIR$/src/sort/LargestNumber.java" />
-        <option value="$PROJECT_DIR$/src/twopointers/ThreeSum.java" />
-        <option value="$PROJECT_DIR$/src/twopointers/ThreeSumClosest.java" />
-        <option value="$PROJECT_DIR$/src/twopointers/FourSum.java" />
-        <option value="$PROJECT_DIR$/src/twopointers/ContainerWithMostWater.java" />
-        <option value="$PROJECT_DIR$/src/twopointers/RemoveElement.java" />
-        <option value="$PROJECT_DIR$/src/twopointers/RemoveDuplicatesfromSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/twopointers/RemoveDuplicatesfromSortedArrayII.java" />
-        <option value="$PROJECT_DIR$/src/binaryTree/dfs/ConvertSortedListToBST.java" />
-        <option value="$PROJECT_DIR$/src/linkedList/ConvertSortedListToBST.java" />
         <option value="$PROJECT_DIR$/src/linkedList/CopyListwithRandomPointer.java" />
         <option value="$PROJECT_DIR$/src/twopointers/SubstringwithConcatenationofAllWords.java" />
         <option value="$PROJECT_DIR$/src/twopointers/TrappingRainWater.java" />
@@ -1010,6 +1024,39 @@
         <option value="$PROJECT_DIR$/src/interview/facebook/Container.java" />
         <option value="$PROJECT_DIR$/src/interview/facetoface/Friends.java" />
         <option value="$PROJECT_DIR$/src/interview/ebates/ThreadTest.java" />
+        <option value="$PROJECT_DIR$/src/interview/ebates/RunnableTest.java" />
+        <option value="$PROJECT_DIR$/src/interview/ebates/BankAccountTest.java" />
+        <option value="$PROJECT_DIR$/src/interview/ebates/JoinDemo.java" />
+        <option value="$PROJECT_DIR$/src/interview/ebates/thread/JoinDemo.java" />
+        <option value="$PROJECT_DIR$/src/interview/ebates/designpattern/SimpleFactory.java" />
+        <option value="$PROJECT_DIR$/src/interview/ebates/designpattern/Factory/Sender.java" />
+        <option value="$PROJECT_DIR$/src/interview/ebates/designpattern/Factory/MailSender.java" />
+        <option value="$PROJECT_DIR$/src/interview/ebates/designpattern/Factory/SmsSender.java" />
+        <option value="$PROJECT_DIR$/src/interview/ebates/designpattern/Factory/SimpleFactory.java" />
+        <option value="$PROJECT_DIR$/src/interview/ebates/designpattern/Factory/SendFactory.java" />
+        <option value="$PROJECT_DIR$/src/interview/ebates/designpattern/Factory/FactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/Source.java" />
+        <option value="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/Targetable.java" />
+        <option value="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/Adapter.java" />
+        <option value="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/AdapterTest.java" />
+        <option value="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/classadapter/AdapterTest.java" />
+        <option value="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/objectadapter/Wrapper.java" />
+        <option value="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/objectadapter/AdapterTest.java" />
+        <option value="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/InterfaceAdapter/Sourceable.java" />
+        <option value="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/InterfaceAdapter/Wrapper.java" />
+        <option value="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/InterfaceAdapter/SourceSub1.java" />
+        <option value="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/InterfaceAdapter/SourceSub2.java" />
+        <option value="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/InterfaceAdapter/WrapperTest.java" />
+        <option value="$PROJECT_DIR$/src/interview/ebates/designpattern/proxy/Sourceable.java" />
+        <option value="$PROJECT_DIR$/src/interview/google/TopologicalSort.java" />
+        <option value="$PROJECT_DIR$/src/interview/google/RemoveDuplicatesInArray.java" />
+        <option value="$PROJECT_DIR$/src/hashtable/ValidSudoku.java" />
+        <option value="$PROJECT_DIR$/src/hashtable/Anagrams.java" />
+        <option value="$PROJECT_DIR$/src/string/ReverseWordsinaStringII.java" />
+        <option value="$PROJECT_DIR$/src/string/RotateArray.java" />
+        <option value="$PROJECT_DIR$/src/string/ZigZagConversion.java" />
+        <option value="$PROJECT_DIR$/src/string/LongestCommonPrefix.java" />
+        <option value="$PROJECT_DIR$/src/string/TextJustification.java" />
       </list>
     </option>
   </component>
@@ -1047,6 +1094,12 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files" />
+      </pane>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1195,11 +1248,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="interview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="facetoface" />
+              <option name="myItemId" value="trie" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1217,69 +1266,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="interview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="facebook" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cleancode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cleancode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="interview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ebates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ThreadTest.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cleancode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cleancode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="interview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="amazon" />
+              <option name="myItemId" value="string" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane />
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files" />
       </pane>
     </panes>
   </component>
@@ -1324,83 +1315,22 @@
     <property name="OverrideImplement.overriding.sorted" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="interview.ebates.designpattern.Factory" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="interview" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThreadTest">
-    <configuration default="false" name="SurroundedRegions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.WrapperTest">
+    <configuration default="false" name="FactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="bfs.*" />
+          <option name="PATTERN" value="interview.ebates.designpattern.Factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="cleancode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="bfs" />
-      <option name="MAIN_CLASS_NAME" value="bfs.SurroundedRegions" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <ConfigurationWrapper RunnerId="Debug" />
-      <method />
-    </configuration>
-    <configuration default="false" name="LRUCache" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="datastructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="cleancode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="datastructure" />
-      <option name="MAIN_CLASS_NAME" value="datastructure.LRUCache" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <ConfigurationWrapper RunnerId="Debug" />
-      <method />
-    </configuration>
-    <configuration default="false" name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="datastructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="datastructure.LRUCache" />
+      <option name="MAIN_CLASS_NAME" value="interview.ebates.designpattern.Factory.FactoryTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1416,17 +1346,19 @@
         <option name="TRANSPORT" value="0" />
         <option name="LOCAL" value="true" />
       </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="ExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="AdapterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="interview.ebates.designpattern.adapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="test.ExceptionTest" />
+      <option name="MAIN_CLASS_NAME" value="interview.ebates.designpattern.adapter.classadapter.AdapterTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1441,14 +1373,42 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="interview.ebates.designpattern.adapter.objectadapter in cleancode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="interview.ebates.*" />
+          <option name="PATTERN" value="interview.ebates.designpattern.adapter.objectadapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="interview.ebates.ThreadTest" />
+      <module name="cleancode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="interview.ebates.designpattern.adapter.objectadapter" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AdapterTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="interview.ebates.designpattern.adapter.objectadapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="interview.ebates.designpattern.adapter.objectadapter.AdapterTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1461,6 +1421,34 @@
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="WrapperTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="interview.ebates.designpattern.adapter.InterfaceAdapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="interview.ebates.designpattern.adapter.InterfaceAdapter.WrapperTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="cleancode" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails" singleton="true">
@@ -1471,12 +1459,6 @@
       <setting name="passParentEnv" value="true" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <setting name="launchBrowser" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -1502,38 +1484,6 @@
       </option>
       <option name="moduleName" value="" />
       <option name="trusted" value="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="myFilePath" />
-      <option name="GLUE" />
-      <option name="myNameFilter" />
-      <option name="myGeneratedName" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -1562,6 +1512,38 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1706,19 +1688,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="JUnit.SearchforaRange" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.LongestPalindromicSubstring" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.SurroundedRegions" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.LRUCache" />
-      <item index="4" class="java.lang.String" itemvalue="Application.LRUCache" />
-      <item index="5" class="java.lang.String" itemvalue="Application.ExceptionTest" />
-      <item index="6" class="java.lang.String" itemvalue="Application.ThreadTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.FactoryTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.AdapterTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.interview.ebates.designpattern.adapter.objectadapter in cleancode" />
+      <item index="5" class="java.lang.String" itemvalue="Application.AdapterTest (1)" />
+      <item index="6" class="java.lang.String" itemvalue="Application.WrapperTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ThreadTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ExceptionTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.LRUCache" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.LRUCache" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.SurroundedRegions" />
+        <item index="0" class="java.lang.String" itemvalue="Application.WrapperTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.AdapterTest (1)" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.interview.ebates.designpattern.adapter.objectadapter in cleancode" />
+        <item index="3" class="java.lang.String" itemvalue="Application.AdapterTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FactoryTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1802,7 +1784,12 @@
       <workItem from="1424173268327" duration="6339000" />
       <workItem from="1424239174540" duration="5054000" />
       <workItem from="1424307377284" duration="40962000" />
-      <workItem from="1424508451220" duration="47278000" />
+      <workItem from="1424508451220" duration="51271000" />
+      <workItem from="1424850157460" duration="4180000" />
+      <workItem from="1425342162931" duration="27796000" />
+      <workItem from="1425892560315" duration="7198000" />
+      <workItem from="1426138865005" duration="5854000" />
+      <workItem from="1426414323416" duration="5037000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode: is palindrome&#10;tag: String">
       <created>1418642629519</created>
@@ -1900,7 +1887,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="713857000" />
+    <option name="totallyTimeSpent" value="767915000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1924,7 +1911,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1378" height="752" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
@@ -1935,23 +1922,23 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40136054" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41326532" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27389985" sideWeight="0.2173913" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3197279" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23596358" sideWeight="0.2175" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3265306" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32777777" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24967907" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27389985" sideWeight="0.7826087" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41326532" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23596358" sideWeight="0.78" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41080198" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32777777" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3265306" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1999,308 +1986,28 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/twopointers/FourSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="1" selection-start="1713" selection-end="1713" vertical-scroll-proportion="0.0" vertical-offset="833" max-vertical-offset="1320">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/twopointers/ContainerWithMostWater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="13" selection-start="339" selection-end="582" vertical-scroll-proportion="0.0" vertical-offset="41" max-vertical-offset="836">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/twopointers/RemoveElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="19" selection-start="150" selection-end="316" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="484">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/twopointers/RemoveDuplicatesfromSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="19" selection-start="161" selection-end="475" vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="616">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/twopointers/RemoveDuplicatesfromSortedArrayII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="20" selection-start="502" selection-end="502" vertical-scroll-proportion="0.0" vertical-offset="241" max-vertical-offset="814">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/binaryTree/dfs/TreeLinkNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="1" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="352">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/binaryTree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="3" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="418">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedList/AddTwoNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2310">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/binaryTree/dfs/ConvertSortedArrayToBST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="704">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/binaryTree/dfs/ConvertSortedListToBST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="22" selection-start="940" selection-end="940" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="1826">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedList/InsertionSortList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="4" selection-start="791" selection-end="791" vertical-scroll-proportion="0.0" vertical-offset="475" max-vertical-offset="1628">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedList/ConvertSortedListToBST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="0" selection-start="897" selection-end="897" vertical-scroll-proportion="0.0" vertical-offset="1030" max-vertical-offset="1672">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedList/CopyListwithRandomPointer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="13" selection-start="2076" selection-end="2076" vertical-scroll-proportion="0.0" vertical-offset="1044" max-vertical-offset="2046">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/LongestSubstringWithoutRepeating.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="23" selection-start="1036" selection-end="1036" vertical-scroll-proportion="0.0" vertical-offset="466" max-vertical-offset="1782">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/twopointers/SubstringwithConcatenationofAllWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="8" selection-start="287" selection-end="1524" vertical-scroll-proportion="0.0" vertical-offset="103" max-vertical-offset="1188">
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#556#573#0" expanded="false" />
-            <element signature="e#859#876#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/twopointers/TrappingRainWater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="8" selection-start="776" selection-end="1364" vertical-scroll-proportion="0.0" vertical-offset="616" max-vertical-offset="1320">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/twopointers/MergeSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="9" selection-start="352" selection-end="797" vertical-scroll-proportion="0.0" vertical-offset="470" max-vertical-offset="924">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/twopointers/MinimumWindowSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="9" selection-start="1984" selection-end="1984" vertical-scroll-proportion="0.0" vertical-offset="1187" max-vertical-offset="1650">
-          <folding>
-            <element signature="e#307#327#0" expanded="false" />
-            <element signature="e#642#662#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedList/ReverseLinkedListII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0" vertical-offset="47" max-vertical-offset="1232">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedList/ReorderList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="16" selection-start="1631" selection-end="1631" vertical-scroll-proportion="0.0" vertical-offset="1096" max-vertical-offset="1848">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedList/ReverseLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="24" selection-start="267" selection-end="274" vertical-scroll-proportion="0.0" vertical-offset="286" max-vertical-offset="1320">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedList/ReverseNodesinkGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="4" selection-start="510" selection-end="1495" vertical-scroll-proportion="0.0" vertical-offset="436" max-vertical-offset="1518">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack/SimplifyPath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="49" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="902">
-          <folding>
-            <element signature="e#318#326#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bitmanipulation/RepeatedDNASequences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="5" selection-start="1063" selection-end="1063" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="1232">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bfs/WordLadderII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="5" selection-start="108" selection-end="2627" vertical-scroll-proportion="0.0" vertical-offset="1456" max-vertical-offset="1980">
-          <folding>
-            <element signature="e#242#256#0" expanded="true" />
-            <element signature="e#311#333#0" expanded="true" />
-            <element signature="e#388#405#0" expanded="true" />
-            <element signature="e#547#555#0" expanded="true" />
-            <element signature="e#1499#1507#0" expanded="true" />
-            <element signature="e#2160#2168#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/graph/UndirectedGraphNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="13" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="396">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/graph/CloneGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="45" selection-start="436" selection-end="449" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1430">
-          <folding>
-            <element signature="e#310#352#0" expanded="false" />
-            <element signature="e#1202#1244#0" expanded="false" />
-            <element signature="e#1301#1322#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_25/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2052" column="18" selection-start="80522" selection-end="80522" vertical-scroll-proportion="0.0" vertical-offset="44282" max-vertical-offset="68772">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../junit-4.12-beta-2.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="40" selection-start="388" selection-end="388" vertical-scroll-proportion="-4.88" vertical-offset="98" max-vertical-offset="374">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../junit-4.12-beta-2.jar!/org/junit/runners/ParentRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="25" selection-start="2860" selection-end="2860" vertical-scroll-proportion="-3.48" vertical-offset="1057" max-vertical-offset="1738">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../junit-4.12-beta-2.jar!/org/junit/internal/runners/model/EachTestNotifier.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="16" selection-start="488" selection-end="488" vertical-scroll-proportion="-3.48" vertical-offset="155" max-vertical-offset="616">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../junit-4.12-beta-2.jar!/org/junit/runner/Result.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="20" selection-start="2006" selection-end="2006" vertical-scroll-proportion="-4.48" vertical-offset="834" max-vertical-offset="1122">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../junit-4.12-beta-2.jar!/org/junit/runner/notification/RunNotifier.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1188">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../junit-4.12-beta-2.jar!/org/junit/runner/notification/SynchronizedRunListener.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="16" selection-start="1176" selection-end="1176" vertical-scroll-proportion="-3.84" vertical-offset="388" max-vertical-offset="814">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../junit-4.12-beta-2.jar!/org/junit/runner/notification/Failure.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="40" selection-start="617" selection-end="617" vertical-scroll-proportion="-3.48" vertical-offset="221" max-vertical-offset="638">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_25/src.zip!/java/util/LinkedHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="397" column="11" selection-start="15177" selection-end="15177" vertical-scroll-proportion="0.0" vertical-offset="8186" max-vertical-offset="16016">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/bfs/WordLadder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="44" selection-start="750" selection-end="750" vertical-scroll-proportion="0.0" vertical-offset="497" max-vertical-offset="2376">
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#754#770#0" expanded="true" />
-            <element signature="e#2117#2125#0" expanded="true" />
-            <element signature="e#2175#2191#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#754#770#0" expanded="false" />
+            <element signature="e#2117#2125#0" expanded="false" />
+            <element signature="e#2175#2191#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Java/jdk1.8.0_25/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="473" column="11" selection-start="19286" selection-end="19286" vertical-scroll-proportion="0.0" vertical-offset="11403" max-vertical-offset="51788">
-          <folding />
-        </state>
+        <state line="473" column="11" selection-start="19286" selection-end="19286" vertical-scroll-proportion="0.0" vertical-offset="11403" max-vertical-offset="51788" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/bfs/SurroundedRegions.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="83" column="14" selection-start="2538" selection-end="2538" vertical-scroll-proportion="0.0" vertical-offset="362" max-vertical-offset="2332">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2309,87 +2016,272 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="37" column="17" selection-start="1106" selection-end="1106" vertical-scroll-proportion="0.0" vertical-offset="415" max-vertical-offset="1100">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/ExceptionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="9" selection-start="671" selection-end="671" vertical-scroll-proportion="0.0" vertical-offset="393" max-vertical-offset="770">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="26" column="9" selection-start="671" selection-end="671" vertical-scroll-proportion="0.0" vertical-offset="393" max-vertical-offset="770" />
       </provider>
     </entry>
     <entry file="jar://C:/Java/jdk1.8.0_25/src.zip!/java/util/Collection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="144" column="15" selection-start="6344" selection-end="6344" vertical-scroll-proportion="0.0" vertical-offset="4144" max-vertical-offset="12870">
-          <folding />
-        </state>
+        <state line="144" column="15" selection-start="6344" selection-end="6344" vertical-scroll-proportion="0.0" vertical-offset="4144" max-vertical-offset="12870" />
       </provider>
     </entry>
     <entry file="jar://C:/Java/jdk1.8.0_25/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="106" column="23" selection-start="4303" selection-end="4307" vertical-scroll-proportion="0.0" vertical-offset="1654" max-vertical-offset="31702">
-          <folding />
-        </state>
+        <state line="106" column="23" selection-start="4303" selection-end="4307" vertical-scroll-proportion="0.0" vertical-offset="1654" max-vertical-offset="31702" />
       </provider>
     </entry>
     <entry file="jar://C:/Java/jdk1.8.0_25/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="112" column="0" selection-start="4306" selection-end="4306" vertical-scroll-proportion="0.0" vertical-offset="2732" max-vertical-offset="15774">
-          <folding />
-        </state>
+        <state line="112" column="0" selection-start="4306" selection-end="4306" vertical-scroll-proportion="0.0" vertical-offset="2732" max-vertical-offset="15774" />
       </provider>
     </entry>
     <entry file="jar://C:/Java/jdk1.8.0_25/src.zip!/java/util/Set.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="7" selection-start="3060" selection-end="3060" vertical-scroll-proportion="0.0" vertical-offset="1236" max-vertical-offset="8712">
-          <folding />
-        </state>
+        <state line="87" column="7" selection-start="3060" selection-end="3060" vertical-scroll-proportion="0.0" vertical-offset="1236" max-vertical-offset="8712" />
       </provider>
     </entry>
     <entry file="jar://C:/Java/jdk1.8.0_25/src.zip!/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="138" column="9" selection-start="6098" selection-end="6098" vertical-scroll-proportion="0.0" vertical-offset="2244" max-vertical-offset="25586">
-          <folding />
-        </state>
+        <state line="138" column="9" selection-start="6098" selection-end="6098" vertical-scroll-proportion="0.0" vertical-offset="2244" max-vertical-offset="25586" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/array/FloodFill.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="8" selection-start="386" selection-end="386" vertical-scroll-proportion="0.0" vertical-offset="4" max-vertical-offset="748">
-          <folding />
-        </state>
+        <state line="15" column="8" selection-start="386" selection-end="386" vertical-scroll-proportion="0.0" vertical-offset="4" max-vertical-offset="748" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/interview/facebook/Container.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="35" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="902">
-          <folding />
-        </state>
+        <state line="14" column="35" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="902" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/interview/facetoface/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="21" selection-start="145" selection-end="145" vertical-scroll-proportion="0.0" vertical-offset="462" max-vertical-offset="2904">
-          <folding />
-        </state>
+        <state line="8" column="21" selection-start="145" selection-end="145" vertical-scroll-proportion="0.0" vertical-offset="462" max-vertical-offset="2904" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/interview/facetoface/Friends.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="13" selection-start="574" selection-end="574" vertical-scroll-proportion="0.0" vertical-offset="364" max-vertical-offset="924">
+        <state line="19" column="13" selection-start="574" selection-end="574" vertical-scroll-proportion="0.0" vertical-offset="364" max-vertical-offset="924" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/ebates/thread/ThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="9" selection-start="516" selection-end="516" vertical-scroll-proportion="0.0" vertical-offset="123" max-vertical-offset="638" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/ebates/thread/RunnableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="42" selection-start="324" selection-end="324" vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="660" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/ebates/thread/BankAccountTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="0" selection-start="1338" selection-end="1338" vertical-scroll-proportion="0.0" vertical-offset="860" max-vertical-offset="1386" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/ebates/thread/JoinDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="37" selection-start="512" selection-end="512" vertical-scroll-proportion="0.0" vertical-offset="212" max-vertical-offset="1826" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/Targetable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="26" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/Source.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="8" selection-start="149" selection-end="196" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/classadapter/AdapterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="25" selection-start="328" selection-end="328" vertical-scroll-proportion="0.0" vertical-offset="44" max-vertical-offset="440" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/objectadapter/Wrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="5" selection-start="562" selection-end="562" vertical-scroll-proportion="0.0" vertical-offset="277" max-vertical-offset="660" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/objectadapter/AdapterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="11" selection-start="387" selection-end="387" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="484" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/InterfaceAdapter/Sourceable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="3" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/InterfaceAdapter/Wrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="27" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/InterfaceAdapter/SourceSub1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="23" selection-start="120" selection-end="130" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="352" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/InterfaceAdapter/SourceSub2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="5" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="352" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/InterfaceAdapter/WrapperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="5" selection-start="387" selection-end="387" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="484" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/ebates/designpattern/proxy/Sourceable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="1" selection-start="145" selection-end="145" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="308" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/ebates/designpattern/Factory/SimpleFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="9" selection-start="398" selection-end="398" vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="506" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/ebates/designpattern/Factory/MailSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="5" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/ebates/designpattern/Factory/FactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="22" selection-start="285" selection-end="285" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="396" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/ebates/designpattern/Factory/Sender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="23" selection-start="139" selection-end="139" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="308" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/ebates/designpattern/Factory/SmsSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="231" selection-end="231" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/classadapter/Adapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="5" selection-start="381" selection-end="381" vertical-scroll-proportion="0.43214285" vertical-offset="0" max-vertical-offset="560" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/BucketSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="9" selection-start="1412" selection-end="1412" vertical-scroll-proportion="0.0" vertical-offset="726" max-vertical-offset="1386">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/ebates/ThreadTest.java">
+    <entry file="file://$PROJECT_DIR$/src/hashtable/ValidSudoku.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="1" selection-start="517" selection-end="517" vertical-scroll-proportion="0.51419556" vertical-offset="321" max-vertical-offset="638">
+        <state line="64" column="9" selection-start="1655" selection-end="1655" vertical-scroll-proportion="0.0" vertical-offset="1078" max-vertical-offset="1650" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hashtable/Anagrams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="396" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stack/LargestRectangleinHistogram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="20" selection-start="380" selection-end="380" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="792" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stack/MaximalRectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="5" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0" vertical-offset="801" max-vertical-offset="1518">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/ReverseWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="33" selection-start="1297" selection-end="1654" vertical-scroll-proportion="0.0" vertical-offset="889" max-vertical-offset="1738">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/ReverseWordsinaStringII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="4" selection-start="100" selection-end="731" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="792">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/RotateString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="5" selection-start="835" selection-end="1076" vertical-scroll-proportion="0.0" vertical-offset="647" max-vertical-offset="1364">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/google/TopologicalSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="5" selection-start="814" selection-end="814" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1958">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/google/RemoveDuplicatesInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="9" selection-start="501" selection-end="501" vertical-scroll-proportion="0.0" vertical-offset="163" max-vertical-offset="682">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/RotateArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="11" selection-start="554" selection-end="554" vertical-scroll-proportion="0.0" vertical-offset="382" max-vertical-offset="858">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/ZigZagConversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="29" selection-start="146" selection-end="802" vertical-scroll-proportion="0.0" vertical-offset="351" max-vertical-offset="836">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trie/TrieTreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trie/TrieST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="190" column="9" selection-start="5625" selection-end="5625" vertical-scroll-proportion="0.0" vertical-offset="4654" max-vertical-offset="4972">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/LongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="56" selection-start="155" selection-end="899" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="902">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/TextJustification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="375" selection-end="375" vertical-scroll-proportion="0.81088823" vertical-offset="91" max-vertical-offset="572">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#244#252#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
