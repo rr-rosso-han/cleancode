@@ -7,6 +7,6 @@ import java.util.List;
  */
 public class Anagrams {
     public List<String> anagrams(String[] strs) {
-
+    	return null;
     }
 }

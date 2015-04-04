@@ -66,6 +66,12 @@ public class BinaryTree<E> {
             }
             return node.item;
         }
+
+		@Override
+		public void remove() {
+			// TODO Auto-generated method stub
+			
+		}
     }
 
     @Test
@@ -120,6 +126,12 @@ public class BinaryTree<E> {
             pushLeftChildren(res.right);
             return res.item;
         }
+
+		@Override
+		public void remove() {
+			// TODO Auto-generated method stub
+			
+		}
     }
 
     @Test
@@ -172,5 +184,10 @@ public class BinaryTree<E> {
             TreeNode<E> res = stack.pop();
             return res.item;
         }
+		@Override
+		public void remove() {
+			// TODO Auto-generated method stub
+			
+		}
     }
 }

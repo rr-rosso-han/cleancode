@@ -1,6 +1,6 @@
 package string;
 
-import com.sun.javafx.image.IntPixelGetter;
+//import com.sun.javafx.image.IntPixelGetter;
 import org.junit.Test;
 
 import java.util.Arrays;
