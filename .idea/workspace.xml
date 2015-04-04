@@ -2,37 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3349dfb5-1966-4152-9ea9-93a65356998e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/classadapter/Adapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/classadapter/AdapterTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/objectadapter/AdapterTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hashtable/Anagrams.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/thread/BankAccountTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/Factory/FactoryTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/thread/JoinDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/string/LongestCommonPrefix.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/Factory/MailSender.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/google/RemoveDuplicatesInArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/string/ReverseWordsinaStringII.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/string/RotateArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/thread/RunnableTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/Factory/Sender.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/Factory/SimpleFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/Factory/SmsSender.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/Source.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/InterfaceAdapter/SourceSub1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/InterfaceAdapter/SourceSub2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/InterfaceAdapter/Sourceable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/proxy/Sourceable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/Targetable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/string/TextJustification.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/google/TopologicalSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hashtable/ValidSudoku.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/InterfaceAdapter/Wrapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/objectadapter/Wrapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/interview/ebates/designpattern/adapter/InterfaceAdapter/WrapperTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/string/ZigZagConversion.java" />
-      <change type="MOVED" beforePath="C:\dos\algorithms\codes\cleancode\src\interview\ebates\ThreadTest.java" afterPath="$PROJECT_DIR$/src/interview/ebates/thread/ThreadTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/jiahan.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/jiahan.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/string/MultiplyStrings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/string/Read4II.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/string/RomantoInteger.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/string/TextJustification.java" afterPath="$PROJECT_DIR$/src/string/TextJustification.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="206f938f-3e62-4c4a-b60f-374686d8d4c0" name="Failed commit: Default" comment="leetcode: Merge K sorted Lists&#10;tag: linked list" />
@@ -900,15 +873,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ReverseWordsinaStringII.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/string/ReverseWordsinaStringII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="4" selection-start="100" selection-end="731" vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="792">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="RotateArray.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/string/RotateArray.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -948,37 +912,49 @@
       <file leaf-file-name="LongestCommonPrefix.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/string/LongestCommonPrefix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="56" selection-start="155" selection-end="899" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="902">
+            <state line="32" column="56" selection-start="155" selection-end="899" vertical-scroll-proportion="0.0" vertical-offset="704" max-vertical-offset="902">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TextJustification.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="TextJustification.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/string/TextJustification.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="375" selection-end="375" vertical-scroll-proportion="0.81088823" vertical-offset="91" max-vertical-offset="572">
+            <state line="48" column="5" selection-start="147" selection-end="1736" vertical-scroll-proportion="0.0" vertical-offset="883" max-vertical-offset="1232">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#244#252#0" expanded="true" />
+                <element signature="e#296#304#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RotateString.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/string/RotateString.java">
+      <file leaf-file-name="RomantoInteger.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/string/RomantoInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="5" selection-start="835" selection-end="1076" vertical-scroll-proportion="0.0" vertical-offset="946" max-vertical-offset="1408">
+            <state line="27" column="20" selection-start="752" selection-end="752" vertical-scroll-proportion="0.0" vertical-offset="333" max-vertical-offset="880">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#296#316#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Read4II.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/string/Read4II.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="5" selection-start="101" selection-end="785" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="726">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TopologicalSort.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/interview/google/TopologicalSort.java">
+      <file leaf-file-name="MultiplyStrings.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/string/MultiplyStrings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="5" selection-start="814" selection-end="814" vertical-scroll-proportion="0.0" vertical-offset="748" max-vertical-offset="1958">
+            <state line="8" column="5" selection-start="150" selection-end="150" vertical-scroll-proportion="0.504298" vertical-offset="0" max-vertical-offset="352">
               <folding />
             </state>
           </provider>
@@ -1006,9 +982,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/linkedList/CopyListwithRandomPointer.java" />
-        <option value="$PROJECT_DIR$/src/twopointers/SubstringwithConcatenationofAllWords.java" />
-        <option value="$PROJECT_DIR$/src/twopointers/TrappingRainWater.java" />
         <option value="$PROJECT_DIR$/src/twopointers/MergeSortedArray.java" />
         <option value="$PROJECT_DIR$/src/twopointers/MinimumWindowSubstring.java" />
         <option value="$PROJECT_DIR$/src/linkedList/ReverseNodesinkGroup.java" />
@@ -1057,6 +1030,9 @@
         <option value="$PROJECT_DIR$/src/string/ZigZagConversion.java" />
         <option value="$PROJECT_DIR$/src/string/LongestCommonPrefix.java" />
         <option value="$PROJECT_DIR$/src/string/TextJustification.java" />
+        <option value="$PROJECT_DIR$/src/string/RomantoInteger.java" />
+        <option value="$PROJECT_DIR$/src/string/Read4II.java" />
+        <option value="$PROJECT_DIR$/src/string/MultiplyStrings.java" />
       </list>
     </option>
   </component>
@@ -1094,9 +1070,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files" />
-      </pane>
       <pane id="PackagesPane">
         <subPane />
       </pane>
@@ -1272,6 +1245,9 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1445,12 +1421,6 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <method />
-    </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails" singleton="true">
       <module name="" />
       <setting name="vmparams" value="" />
@@ -1459,6 +1429,12 @@
       <setting name="passParentEnv" value="true" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -1484,6 +1460,38 @@
       </option>
       <option name="moduleName" value="" />
       <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -1512,38 +1520,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="myFilePath" />
-      <option name="GLUE" />
-      <option name="myNameFilter" />
-      <option name="myGeneratedName" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1790,6 +1766,9 @@
       <workItem from="1425892560315" duration="7198000" />
       <workItem from="1426138865005" duration="5854000" />
       <workItem from="1426414323416" duration="5037000" />
+      <workItem from="1426680625323" duration="74000" />
+      <workItem from="1426729548075" duration="596000" />
+      <workItem from="1427064553894" duration="8408000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode: is palindrome&#10;tag: String">
       <created>1418642629519</created>
@@ -1887,7 +1866,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="767915000" />
+    <option name="totallyTimeSpent" value="776993000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1910,8 +1889,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1378" height="752" extended-state="6" />
-    <editor active="false" />
+    <frame x="-9" y="-9" width="1378" height="752" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
@@ -1922,7 +1901,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40136054" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3197279" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3197279" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23596358" sideWeight="0.2175" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -1937,8 +1916,8 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32777777" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3265306" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1986,32 +1965,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/bfs/WordLadder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="44" selection-start="750" selection-end="750" vertical-scroll-proportion="0.0" vertical-offset="497" max-vertical-offset="2376">
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#754#770#0" expanded="false" />
-            <element signature="e#2117#2125#0" expanded="false" />
-            <element signature="e#2175#2191#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_25/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="473" column="11" selection-start="19286" selection-end="19286" vertical-scroll-proportion="0.0" vertical-offset="11403" max-vertical-offset="51788" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bfs/SurroundedRegions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="14" selection-start="2538" selection-end="2538" vertical-scroll-proportion="0.0" vertical-offset="362" max-vertical-offset="2332">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/datastructure/LRUCache.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="37" column="17" selection-start="1106" selection-end="1106" vertical-scroll-proportion="0.0" vertical-offset="415" max-vertical-offset="1100">
@@ -2233,13 +2186,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/interview/google/RemoveDuplicatesInArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="9" selection-start="501" selection-end="501" vertical-scroll-proportion="0.0" vertical-offset="163" max-vertical-offset="682">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/string/RotateArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="11" selection-start="554" selection-end="554" vertical-scroll-proportion="0.0" vertical-offset="382" max-vertical-offset="858">
@@ -2275,13 +2221,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview/google/RemoveDuplicatesInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="9" selection-start="501" selection-end="501" vertical-scroll-proportion="0.0" vertical-offset="163" max-vertical-offset="682">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/string/TextJustification.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="375" selection-end="375" vertical-scroll-proportion="0.81088823" vertical-offset="91" max-vertical-offset="572">
+        <state line="48" column="5" selection-start="147" selection-end="1736" vertical-scroll-proportion="0.0" vertical-offset="883" max-vertical-offset="1232">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#244#252#0" expanded="true" />
+            <element signature="e#296#304#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/RomantoInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="20" selection-start="752" selection-end="752" vertical-scroll-proportion="0.0" vertical-offset="333" max-vertical-offset="880">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#296#316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/Read4II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="5" selection-start="101" selection-end="785" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="726">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/MultiplyStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="5" selection-start="150" selection-end="150" vertical-scroll-proportion="0.504298" vertical-offset="0" max-vertical-offset="352">
+          <folding />
         </state>
       </provider>
     </entry>
